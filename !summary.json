@@ -930,10 +930,6 @@
 		"size": 47240.0
 	},
 	{
-		"name": "marble_run10.wav",
-		"size": 47684.0
-	},
-	{
 		"name": "marble_run11.wav",
 		"size": 45292.0
 	},
@@ -1006,10 +1002,6 @@
 		"size": 88716.0
 	},
 	{
-		"name": "metalbar_run10.wav",
-		"size": 95752.0
-	},
-	{
 		"name": "metalbar_run2.wav",
 		"size": 69268.0
 	},
@@ -1044,10 +1036,6 @@
 	{
 		"name": "metalbar_walk1.wav",
 		"size": 64784.0
-	},
-	{
-		"name": "metalbar_walk10.wav",
-		"size": 80736.0
 	},
 	{
 		"name": "metalbar_walk2.wav",
@@ -1324,10 +1312,6 @@
 	{
 		"name": "squeakywood_run1.wav",
 		"size": 44228.0
-	},
-	{
-		"name": "squeakywood_run10.wav",
-		"size": 46064.0
 	},
 	{
 		"name": "squeakywood_run11.wav",
