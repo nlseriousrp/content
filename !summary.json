@@ -603,10 +603,6 @@
 		"size": 3966
 	},
 	{
-		"name": "help.png",
-		"size": 3966
-	},
-	{
 		"name": "flashlight.wav",
 		"size": 46158
 	},{
@@ -1488,5 +1484,21 @@
 	{
 		"name": "wood_walk4.wav",
 		"size": 101716.0
+	},
+	{
+		"Name": "check.png",
+		"Size": 1043.0
+	},
+	{
+		"Name": "collapse.png",
+		"Size": 340.0
+	},
+	{
+		"Name": "expand.png",
+		"Size": 342.0
+	},
+	{
+		"Name": "info.png",
+		"Size": 1152.0
 	}
 ]
