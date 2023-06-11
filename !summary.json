@@ -1406,26 +1406,34 @@
 				"Size": 150.0
 			},
 			"3": {
-				"Name": "checkbox_checked.png",
-				"Size": 269.0
+				"Name": "check.png",
+				"Size": 1043.0
 			},
 			"4": {
+				"Name": "collapse.png",
+				"Size": 340.0
+			},
+			"5": {
+				"Name": "expand.png",
+				"Size": 342.0
+			},
+			"6": {
 				"Name": "hand96.png",
 				"Size": 1866.0
 			},
-			"5": {
+			"7": {
 				"Name": "hand_rock.png",
 				"Size": 422.0
 			},
-			"6": {
-				"Name": "help.png",
-				"Size": 4637.0
+			"8": {
+				"Name": "info.png",
+				"Size": 1152.0
 			},
-			"7": {
+			"9": {
 				"Name": "one_finger.png",
 				"Size": 378.0
 			},
-			"8": {
+			"10": {
 				"Name": "trousers96.png",
 				"Size": 2223.0
 			},
