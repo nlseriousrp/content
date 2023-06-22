@@ -1,1504 +1,1512 @@
-[
-	{
-		"name": "ak47_cock.wav",
-		"size": 61832
-	},
-	{
-		"name": "ak47_fire1.wav",
-		"size": 417700
-	},
-	{
-		"name": "ak47_magin.wav",
-		"size": 30080
-	},
-	{
-		"name": "ak47_magout.wav",
-		"size": 33906
-	},
-	{
-		"name": "ak47_magout_empty.wav",
-		"size": 27688
-	},
-	{
-		"name": "de_fire1.wav",
-		"size": 441128
-	},
-	{
-		"name": "de_magin.wav",
-		"size": 27688
-	},
-	{
-		"name": "de_magin_partial.wav",
-		"size": 11152
-	},
-	{
-		"name": "de_magout.wav",
-		"size": 27688
-	},
-	{
-		"name": "de_magout_empty.wav",
-		"size": 22176
-	},
-	{
-		"name": "de_sliderelease.wav",
-		"size": 16664
-	},
-	{
-		"name": "empty_assaultrifles.wav",
-		"size": 13908
-	},
-	{
-		"name": "empty_battlerifles.wav",
-		"size": 11152
-	},
-	{
-		"name": "empty_machineguns.wav",
-		"size": 11840
-	},
-	{
-		"name": "empty_shotguns.wav",
-		"size": 15974
-	},
-	{
-		"name": "empty_sniperrifles.wav",
-		"size": 22176
-	},
-	{
-		"name": "empty_submachineguns.wav",
-		"size": 11840
-	},
-	{
-		"name": "generic_magpouch1.wav",
-		"size": 44892
-	},
-	{
-		"name": "generic_magpouch_mg1.wav",
-		"size": 44892
-	},
-	{
-		"name": "generic_magpouch_pistol1.wav",
-		"size": 36230
-	},
-	{
-		"name": "generic_magpouch_shotgun1.wav",
-		"size": 36230
-	},
-	{
-		"name": "generic_magpouch_smg1.wav",
-		"size": 36230
-	},
-	{
-		"name": "glock20_fire1.wav",
-		"size": 441128
-	},
-	{
-		"name": "glock20_magin.wav",
-		"size": 54218
-	},
-	{
-		"name": "glock20_magout.wav",
-		"size": 27688
-	},
-	{
-		"name": "glock20_magout_empty.wav",
-		"size": 27688
+{
+	"1": {
+		"Name": "12gauge.vtf",
+		"Size": 174856.0
+	},
+	"2": {
+		"Name": "12gauge_normal.vtf",
+		"Size": 262224.0
+	},
+	"3": {
+		"Name": "1911.vtf",
+		"Size": 1398336.0
+	},
+	"4": {
+		"Name": "1911_normal.vtf",
+		"Size": 1398336.0
+	},
+	"5": {
+		"Name": "accyuv.vtf",
+		"Size": 349760.0
+	},
+	"6": {
+		"Name": "default_normal.vtf",
+		"Size": 144.0
+	},
+	"7": {
+		"Name": "deserteagle_1.vtf",
+		"Size": 1398336.0
+	},
+	"8": {
+		"Name": "deserteagle_2.vtf",
+		"Size": 349760.0
+	},
+	"9": {
+		"Name": "diffuse.vtf",
+		"Size": 1398336.0
+	},
+	"10": {
+		"Name": "dustcovers.vtf",
+		"Size": 1048656.0
+	},
+	"11": {
+		"Name": "dv2.vtf",
+		"Size": 349760.0
+	},
+	"12": {
+		"Name": "fas_dust_a.vtf",
+		"Size": 1398336.0
+	},
+	"13": {
+		"Name": "fas_dust_b.vtf",
+		"Size": 1398336.0
+	},
+	"14": {
+		"Name": "fas_dust_thick.vtf",
+		"Size": 1398336.0
+	},
+	"15": {
+		"Name": "fas_flamering.vtf",
+		"Size": 175156.0
+	},
+	"16": {
+		"Name": "fas_muzzle_break_test.vtf",
+		"Size": 174944.0
+	},
+	"17": {
+		"Name": "flashlight_diffuse.vtf",
+		"Size": 349704.0
+	},
+	"18": {
+		"Name": "flashlight_diffuse_normal.vtf",
+		"Size": 2097313.0
+	},
+	"19": {
+		"Name": "furniture.vtf",
+		"Size": 1048656.0
+	},
+	"20": {
+		"Name": "gerber_gator.vtf",
+		"Size": 349696.0
+	},
+	"21": {
+		"Name": "glock.vtf",
+		"Size": 1048656.0
+	},
+	"22": {
+		"Name": "harris_bipod.vtf",
+		"Size": 262224.0
+	},
+	"23": {
+		"Name": "hl2_muzzleflash.vtf",
+		"Size": 174944.0
+	},
+	"24": {
+		"Name": "invisible.vtf",
+		"Size": 87616.0
+	},
+	"25": {
+		"Name": "lens_envsolid.vtf",
+		"Size": 43784.0
+	},
+	"26": {
+		"Name": "lens_exponent.vtf",
+		"Size": 43784.0
 	},
-	{
-		"name": "glock20_sliderelease.wav",
-		"size": 78178
+	"27": {
+		"Name": "lens_special.vtf",
+		"Size": 65616.0
 	},
-	{
-		"name": "m3s90_fire1.wav",
-		"size": 617526
-	},
-	{
-		"name": "m3s90_getammo.wav",
-		"size": 33202
-	},
-	{
-		"name": "m3s90_insert.wav",
-		"size": 40082
-	},
-	{
-		"name": "m4_boltcatch.wav",
-		"size": 66194
-	},
-	{
-		"name": "m4_fire1.wav",
-		"size": 374980
-	},
-	{
-		"name": "m4_magin.wav",
-		"size": 45674
-	},
-	{
-		"name": "m4_magout.wav",
-		"size": 26510
-	},
-	{
-		"name": "m4_magout_empty.wav",
-		"size": 28300
-	},
-	{
-		"name": "p226_fire1.wav",
-		"size": 397150
-	},
-	{
-		"name": "p226_magin.wav",
-		"size": 19422
-	},
-	{
-		"name": "p226_magin_partial.wav",
-		"size": 16666
-	},
-	{
-		"name": "p226_magout.wav",
-		"size": 22178
-	},
-	{
-		"name": "p226_slideback.wav",
-		"size": 11154
-	},
-	{
-		"name": "p226_slideforward.wav",
-		"size": 8396
-	},
-	{
-		"name": "p226_slidestop.wav",
-		"size": 8396
-	},
-	{
-		"name": "ragingbull_close.wav",
-		"size": 24932
-	},
-	{
-		"name": "ragingbull_extractor.wav",
-		"size": 20946
-	},
-	{
-		"name": "ragingbull_fire1.wav",
-		"size": 661628
-	},
-	{
-		"name": "ragingbull_insert.wav",
-		"size": 24850
-	},
-	{
-		"name": "ragingbull_jiggle.wav",
-		"size": 52964
-	},
-	{
-		"name": "ragingbull_open.wav",
-		"size": 35398
-	},
-	{
-		"name": "ragingbull_remove.wav",
-		"size": 42380
-	},
-	{
-		"name": "switch1.wav",
-		"size": 19422
-	},
-	{
-		"name": "switch2.wav",
-		"size": 19422
-	},
-	{
-		"name": "switch3.wav",
-		"size": 19422
-	},
-	{
-		"name": "switch4.wav",
-		"size": 19422
-	},
-	{
-		"name": "switch5.wav",
-		"size": 19422
-	},
-	{
-		"name": "switch6.wav",
-		"size": 13910
-	},
-	{
-		"name": "weapon_deploy1.wav",
-		"size": 54366
-	},
-	{
-		"name": "weapon_deploy2.wav",
-		"size": 66194
-	},
-	{
-		"name": "weapon_deploy3.wav",
-		"size": 79424
-	},
-	{
-		"name": "weapon_holster1.wav",
-		"size": 75014
-	},
-	{
-		"name": "weapon_holster2.wav",
-		"size": 70604
-	},
-	{
-		"name": "weapon_holster3.wav",
-		"size": 86940
-	},
-	{
-		"name": "weapon_sightlower.wav",
-		"size": 75014
-	},
-	{
-		"name": "weapon_sightlower2.wav",
-		"size": 88244
-	},
-	{
-		"name": "weapon_sightraise.wav",
-		"size": 52964
-	},
-	{
-		"name": "weapon_sightraise2.wav",
-		"size": 61784
-	},
-	{
-		"name": "emptysound.wav",
-		"size": 1160
-	},
-	{
-		"name": "knife_hit1.wav",
-		"size": 42578
-	},
-	{
-		"name": "knife_hit2.wav",
-		"size": 48490
-	},
-	{
-		"name": "knife_hit3.wav",
-		"size": 54510
-	},
-	{
-		"name": "knife_stab.wav",
-		"size": 29418
-	},
-	{
-		"name": "melee_hitworld1.wav",
-		"size": 16802
-	},
-	{
-		"name": "melee_slash1.wav",
-		"size": 71790
-	},
-	{
-		"name": "melee_slash2.wav",
-		"size": 77304
-	},
-	{
-		"name": "melee_slash3.wav",
-		"size": 88328
-	},
-	{
-		"name": "flashlight_diffuse_normal.vtf",
-		"size": 2097313
-	},
-	{
-		"name": "flashlight_diffuse.vtf",
-		"size": 349704
-	},
-	{
-		"name": "fas_dust_a.vtf",
-		"size": 1398336
-	},
-	{
-		"name": "fas_dust_b.vtf",
-		"size": 1398336
-	},
-	{
-		"name": "fas_dust_thick.vtf",
-		"size": 1398336
-	},
-	{
-		"name": "fas_flamering.vtf",
-		"size": 175156
-	},
-	{
-		"name": "fas_muzzle_break_test.vtf",
-		"size": 174944
-	},
-	{
-		"name": "hl2_muzzleflash.vtf",
-		"size": 174944
-	},
-	{
-		"name": "sparkwires.vtf",
-		"size": 44292
-	},
-	{
-		"name": "12gauge_normal.vtf",
-		"size": 262224
-	},
-	{
-		"name": "12gauge.vtf",
-		"size": 174856
-	},
-	{
-		"name": "assault_rifle.png",
-		"size": 1894
-	},
-	{
-		"name": "assault_rifle2.png",
-		"size": 2289
-	},
-	{
-		"name": "buckshot.png",
-		"size": 1196
-	},
-	{
-		"name": "highcaliber.png",
-		"size": 1296
-	},
-	{
-		"name": "lowcaliber.png",
-		"size": 1082
-	},
-	{
-		"name": "money.png",
-		"size": 1870
-	},
-	{
-		"name": "pistol.png",
-		"size": 3647
-	},
-	{
-		"name": "rifle_magazine.png",
-		"size": 1556
-	},
-	{
-		"name": "shotgun.png",
-		"size": 3252
-	},
-	{
-		"name": "sniper_rifle.png",
-		"size": 3799
-	},
-	{
-		"name": "submachine_gun.png",
-		"size": 4244
-	},{
-		"name": "arrowright16.png",
-		"size": 150.0
-	},
-	{
-		"name": "breakable.png",
-		"size": 499.0
-	},
-	{
-		"name": "flashlight.png",
-		"size": 1209.0
-	},
-	{
-		"name": "grenade.png",
-		"size": 2235.0
-	},
-	{
-		"name": "hand96.png",
-		"size": 1866.0
-	},
-	{
-		"name": "hand_rock.png",
-		"size": 422.0
-	},
-	{
-		"name": "jacket96.png",
-		"size": 1588.0
-	},
-	{
-		"name": "knife.png",
-		"size": 2299.0
-	},
-	{
-		"name": "machete.png",
-		"size": 1777.0
-	},
-	{
-		"name": "one_finger.png",
-		"size": 378.0
-	},
-	{
-		"name": "trousers96.png",
-		"size": 2223.0
-	},
-	{
-		"name": "1911.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "1911_normal.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "accyuv.vtf",
-		"size": 349760.0
-	},
-	{
-		"name": "deserteagle_1.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "deserteagle_2.vtf",
-		"size": 349760.0
-	},
-	{
-		"name": "diffuse.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "dustcovers.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "dv2.vtf",
-		"size": 349760.0
-	},
-	{
-		"name": "furniture.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "gerber_gator.vtf",
-		"size": 349696.0
-	},
-	{
-		"name": "glock.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "harris_bipod.vtf",
-		"size": 262224.0
-	},
-	{
-		"name": "invisible.vtf",
-		"size": 87616.0
-	},
-	{
-		"name": "lens_envsolid.vtf",
-		"size": 43784.0
-	},
-	{
-		"name": "lens_exponent.vtf",
-		"size": 43784.0
-	},
-	{
-		"name": "lens_special.vtf",
-		"size": 65616.0
-	},
-	{
-		"name": "leupold_mk4.vtf",
-		"size": 524368.0
-	},
-	{
-		"name": "leupold_mk4_normal.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "m11magazine.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "m11receiver.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "m24_body.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "m24_parts.vtf",
-		"size": 524368.0
-	},
-	{
-		"name": "m67.vtf",
-		"size": 174856.0
-	},
-	{
-		"name": "m79_diffuse.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "m79_grenade_diffuse.vtf",
-		"size": 43912.0
-	},
-	{
-		"name": "m82.vtf",
-		"size": 2796384.0
-	},
-	{
-		"name": "main.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "map1.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "map2.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "p226.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "ragingbull.vtf",
-		"size": 524368.0
-	},
-	{
-		"name": "ragingbull_normal.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "ragingbullmount.vtf",
-		"size": 131152.0
-	},
-	{
-		"name": "ragingbullmount_normal.vtf",
-		"size": 262224.0
-	},
-	{
-		"name": "rpk_parts.vtf",
-		"size": 699232.0
-	},
-	{
-		"name": "scope_leo.vtf",
-		"size": 1048784.0
-	},
-	{
-		"name": "scoperings.vtf",
-		"size": 524368.0
-	},
-	{
-		"name": "scoperings_normal.vtf",
-		"size": 1048656.0
-	},
-	{
-		"name": "uzi_main.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "v_870.vtf",
-		"size": 2796384.0
-	},
-	{
-		"name": "vignette.vtf",
-		"size": 262224.0
-	},
-	{
-		"name": "woodstock.vtf",
-		"size": 1398336.0
-	},
-	{
-		"name": "defaultnormal.vtf",
-		"size": 144.0
-	},
-	{
-		"name": "add.png",
-		"size": 3966
-	},
-	{
-		"name": "flashlight.wav",
-		"size": 46158
-	},{
-		"name": "concrete_run1.wav",
-		"size": 106516.0
-	},
-	{
-		"name": "concrete_run2.wav",
-		"size": 119112.0
-	},
-	{
-		"name": "concrete_run3.wav",
-		"size": 125264.0
-	},
-	{
-		"name": "concrete_run4.wav",
-		"size": 56508.0
-	},
-	{
-		"name": "concrete_run5.wav",
-		"size": 76000.0
-	},
-	{
-		"name": "concrete_run6.wav",
-		"size": 70884.0
-	},
-	{
-		"name": "concrete_walk1.wav",
-		"size": 87952.0
-	},
-	{
-		"name": "concrete_walk2.wav",
-		"size": 107688.0
-	},
-	{
-		"name": "concrete_walk3.wav",
-		"size": 132900.0
-	},
-	{
-		"name": "concrete_walk4.wav",
-		"size": 89668.0
-	},
-	{
-		"name": "concrete_wander1.wav",
-		"size": 53748.0
-	},
-	{
-		"name": "concrete_wander2.wav",
-		"size": 42976.0
-	},
-	{
-		"name": "concrete_wander3.wav",
-		"size": 57124.0
-	},
-	{
-		"name": "concrete_wander4.wav",
-		"size": 83836.0
-	},
-	{
-		"name": "concrete_wander5.wav",
-		"size": 65532.0
-	},
-	{
-		"name": "dirt_run1.wav",
-		"size": 92212.0
-	},
-	{
-		"name": "dirt_run2.wav",
-		"size": 136504.0
-	},
-	{
-		"name": "dirt_run3.wav",
-		"size": 146896.0
-	},
-	{
-		"name": "dirt_run4.wav",
-		"size": 92688.0
-	},
-	{
-		"name": "dirt_walk1.wav",
-		"size": 87600.0
-	},
-	{
-		"name": "dirt_walk2.wav",
-		"size": 151636.0
-	},
-	{
-		"name": "dirt_walk3.wav",
-		"size": 151636.0
-	},
-	{
-		"name": "dirt_walk4.wav",
-		"size": 108596.0
-	},
-	{
-		"name": "dirt_wander1.wav",
-		"size": 81436.0
-	},
-	{
-		"name": "dirt_wander2.wav",
-		"size": 55972.0
-	},
-	{
-		"name": "dirt_wander3.wav",
-		"size": 64348.0
-	},
-	{
-		"name": "dirt_wander4.wav",
-		"size": 43168.0
-	},
-	{
-		"name": "dirt_wander5.wav",
-		"size": 102516.0
-	},
-	{
-		"name": "duct_run1.wav",
-		"size": 116592.0
-	},
-	{
-		"name": "duct_run2.wav",
-		"size": 108448.0
-	},
-	{
-		"name": "duct_run3.wav",
-		"size": 120888.0
-	},
-	{
-		"name": "duct_run4.wav",
-		"size": 148772.0
-	},
-	{
-		"name": "duct_walk1.wav",
-		"size": 127184.0
-	},
-	{
-		"name": "duct_walk2.wav",
-		"size": 133724.0
-	},
-	{
-		"name": "duct_walk3.wav",
-		"size": 119636.0
-	},
-	{
-		"name": "duct_walk4.wav",
-		"size": 169324.0
-	},
-	{
-		"name": "duct_wander1.wav",
-		"size": 109060.0
-	},
-	{
-		"name": "duct_wander2.wav",
-		"size": 182796.0
-	},
-	{
-		"name": "duct_wander3.wav",
-		"size": 182796.0
-	},
-	{
-		"name": "duct_wander4.wav",
-		"size": 197224.0
-	},
-	{
-		"name": "glass_run1.wav",
-		"size": 71212.0
-	},
-	{
-		"name": "glass_run2.wav",
-		"size": 79212.0
-	},
-	{
-		"name": "glass_run3.wav",
-		"size": 69292.0
-	},
-	{
-		"name": "glass_run4.wav",
-		"size": 85180.0
-	},
-	{
-		"name": "glass_walk1.wav",
-		"size": 121744.0
-	},
-	{
-		"name": "glass_walk2.wav",
-		"size": 135420.0
-	},
-	{
-		"name": "glass_walk3.wav",
-		"size": 118460.0
-	},
-	{
-		"name": "glass_walk4.wav",
-		"size": 145628.0
-	},
-	{
-		"name": "glass_wander1.wav",
-		"size": 74188.0
-	},
-	{
-		"name": "glass_wander2.wav",
-		"size": 59972.0
-	},
-	{
-		"name": "glass_wander3.wav",
-		"size": 67076.0
-	},
-	{
-		"name": "glass_wander4.wav",
-		"size": 86644.0
-	},
-	{
-		"name": "grass_run1.wav",
-		"size": 111708.0
-	},
-	{
-		"name": "grass_run2.wav",
-		"size": 98800.0
-	},
-	{
-		"name": "grass_run3.wav",
-		"size": 120732.0
-	},
-	{
-		"name": "grass_run4.wav",
-		"size": 102916.0
-	},
-	{
-		"name": "grass_run5.wav",
-		"size": 78316.0
-	},
-	{
-		"name": "grass_run6.wav",
-		"size": 105600.0
-	},
-	{
-		"name": "grass_walk1.wav",
-		"size": 151244.0
-	},
-	{
-		"name": "grass_walk2.wav",
-		"size": 151268.0
-	},
-	{
-		"name": "grass_walk3.wav",
-		"size": 145428.0
-	},
-	{
-		"name": "grass_walk4.wav",
-		"size": 141956.0
-	},
-	{
-		"name": "grass_wander1.wav",
-		"size": 173728.0
-	},
-	{
-		"name": "grass_wander2.wav",
-		"size": 199616.0
-	},
-	{
-		"name": "grass_wander3.wav",
-		"size": 181896.0
-	},
-	{
-		"name": "grass_wander4.wav",
-		"size": 169404.0
-	},
-	{
-		"name": "grass_wander5.wav",
-		"size": 201812.0
-	},
-	{
-		"name": "grass_wander6.wav",
-		"size": 103512.0
-	},
-	{
-		"name": "gravel_run1.wav",
-		"size": 92564.0
-	},
-	{
-		"name": "gravel_run2.wav",
-		"size": 62188.0
-	},
-	{
-		"name": "gravel_run3.wav",
-		"size": 96204.0
-	},
-	{
-		"name": "gravel_run4.wav",
-		"size": 69476.0
-	},
-	{
-		"name": "gravel_walk1.wav",
-		"size": 129572.0
-	},
-	{
-		"name": "gravel_walk2.wav",
-		"size": 87044.0
-	},
-	{
-		"name": "gravel_walk3.wav",
-		"size": 134668.0
-	},
-	{
-		"name": "gravel_walk4.wav",
-		"size": 97248.0
-	},
-	{
-		"name": "gravel_wander1.wav",
-		"size": 89916.0
-	},
-	{
-		"name": "gravel_wander2.wav",
-		"size": 99100.0
-	},
-	{
-		"name": "gravel_wander3.wav",
-		"size": 133056.0
-	},
-	{
-		"name": "marble_run1.wav",
-		"size": 47240.0
-	},
-	{
-		"name": "marble_run11.wav",
-		"size": 45292.0
-	},
-	{
-		"name": "marble_run2.wav",
-		"size": 45060.0
-	},
-	{
-		"name": "marble_run3.wav",
-		"size": 43900.0
-	},
-	{
-		"name": "marble_run4.wav",
-		"size": 43956.0
-	},
-	{
-		"name": "marble_run5.wav",
-		"size": 45992.0
-	},
-	{
-		"name": "marble_run6.wav",
-		"size": 45492.0
-	},
-	{
-		"name": "marble_run7.wav",
-		"size": 46036.0
-	},
-	{
-		"name": "marble_run8.wav",
-		"size": 43964.0
-	},
-	{
-		"name": "marble_run9.wav",
-		"size": 44032.0
-	},
-	{
-		"name": "marble_walk1.wav",
-		"size": 60568.0
-	},
-	{
-		"name": "marble_walk2.wav",
-		"size": 84952.0
-	},
-	{
-		"name": "marble_walk3.wav",
-		"size": 79428.0
-	},
-	{
-		"name": "marble_walk4.wav",
-		"size": 91844.0
-	},
-	{
-		"name": "marble_wander1.wav",
-		"size": 34220.0
-	},
-	{
-		"name": "marble_wander2.wav",
-		"size": 22616.0
-	},
-	{
-		"name": "marble_wander3.wav",
-		"size": 43992.0
-	},
-	{
-		"name": "marble_wander4.wav",
-		"size": 26224.0
-	},
-	{
-		"name": "metalbar_run1.wav",
-		"size": 88716.0
-	},
-	{
-		"name": "metalbar_run2.wav",
-		"size": 69268.0
-	},
-	{
-		"name": "metalbar_run3.wav",
-		"size": 96584.0
-	},
-	{
-		"name": "metalbar_run4.wav",
-		"size": 98160.0
-	},
-	{
-		"name": "metalbar_run5.wav",
-		"size": 100124.0
-	},
-	{
-		"name": "metalbar_run6.wav",
-		"size": 99232.0
-	},
-	{
-		"name": "metalbar_run7.wav",
-		"size": 103840.0
-	},
-	{
-		"name": "metalbar_run8.wav",
-		"size": 105708.0
-	},
-	{
-		"name": "metalbar_run9.wav",
-		"size": 99620.0
-	},
-	{
-		"name": "metalbar_walk1.wav",
-		"size": 64784.0
-	},
-	{
-		"name": "metalbar_walk2.wav",
-		"size": 71192.0
-	},
-	{
-		"name": "metalbar_walk3.wav",
-		"size": 74228.0
-	},
-	{
-		"name": "metalbar_walk4.wav",
-		"size": 59144.0
-	},
-	{
-		"name": "metalbar_walk5.wav",
-		"size": 57904.0
-	},
-	{
-		"name": "metalbar_walk6.wav",
-		"size": 71460.0
-	},
-	{
-		"name": "metalbar_walk7.wav",
-		"size": 72504.0
-	},
-	{
-		"name": "metalbar_walk8.wav",
-		"size": 52008.0
-	},
-	{
-		"name": "metalbar_walk9.wav",
-		"size": 58368.0
-	},
-	{
-		"name": "metalbar_wander1.wav",
-		"size": 32896.0
-	},
-	{
-		"name": "metalbar_wander2.wav",
-		"size": 30744.0
-	},
-	{
-		"name": "metalbar_wander3.wav",
-		"size": 22332.0
-	},
-	{
-		"name": "metalbox_run1.wav",
-		"size": 104296.0
-	},
-	{
-		"name": "metalbox_run2.wav",
-		"size": 129220.0
-	},
-	{
-		"name": "metalbox_run3.wav",
-		"size": 99448.0
-	},
-	{
-		"name": "metalbox_run4.wav",
-		"size": 87776.0
-	},
-	{
-		"name": "metalbox_run5.wav",
-		"size": 101760.0
-	},
-	{
-		"name": "metalbox_walk1.wav",
-		"size": 147412.0
-	},
-	{
-		"name": "metalbox_walk2.wav",
-		"size": 194208.0
-	},
-	{
-		"name": "metalbox_walk3.wav",
-		"size": 127980.0
-	},
-	{
-		"name": "metalbox_walk4.wav",
-		"size": 125896.0
-	},
-	{
-		"name": "metalbox_wander1.wav",
-		"size": 52940.0
-	},
-	{
-		"name": "metalbox_wander2.wav",
-		"size": 57464.0
-	},
-	{
-		"name": "metalbox_wander3.wav",
-		"size": 58544.0
-	},
-	{
-		"name": "metalbox_wander4.wav",
-		"size": 76656.0
-	},
-	{
-		"name": "mud_run1.wav",
-		"size": 68908.0
-	},
-	{
-		"name": "mud_run2.wav",
-		"size": 84392.0
-	},
-	{
-		"name": "mud_run3.wav",
-		"size": 96824.0
-	},
-	{
-		"name": "mud_run4.wav",
-		"size": 89908.0
-	},
-	{
-		"name": "mud_walk1.wav",
-		"size": 74744.0
-	},
-	{
-		"name": "mud_walk2.wav",
-		"size": 92468.0
-	},
-	{
-		"name": "mud_walk3.wav",
-		"size": 97648.0
-	},
-	{
-		"name": "mud_walk4.wav",
-		"size": 125852.0
-	},
-	{
-		"name": "mud_wander1.wav",
-		"size": 70312.0
-	},
-	{
-		"name": "mud_wander2.wav",
-		"size": 60800.0
-	},
-	{
-		"name": "mud_wander3.wav",
-		"size": 103028.0
-	},
-	{
-		"name": "mud_wander4.wav",
-		"size": 130632.0
-	},
-	{
-		"name": "sand_run1.wav",
-		"size": 48656.0
-	},
-	{
-		"name": "sand_run2.wav",
-		"size": 80920.0
-	},
-	{
-		"name": "sand_run3.wav",
-		"size": 31324.0
-	},
-	{
-		"name": "sand_run4.wav",
-		"size": 45908.0
-	},
-	{
-		"name": "sand_walk1.wav",
-		"size": 59452.0
-	},
-	{
-		"name": "sand_walk2.wav",
-		"size": 78772.0
-	},
-	{
-		"name": "sand_walk3.wav",
-		"size": 48240.0
-	},
-	{
-		"name": "sand_walk4.wav",
-		"size": 60996.0
-	},
-	{
-		"name": "sand_wander1.wav",
-		"size": 67812.0
-	},
-	{
-		"name": "sand_wander2.wav",
-		"size": 95452.0
-	},
-	{
-		"name": "sand_wander3.wav",
-		"size": 95608.0
-	},
-	{
-		"name": "sand_wander4.wav",
-		"size": 76912.0
-	},
-	{
-		"name": "sand_wander5.wav",
-		"size": 120868.0
-	},
-	{
-		"name": "sand_wander6.wav",
-		"size": 73444.0
-	},
-	{
-		"name": "snow_run1.wav",
-		"size": 84780.0
-	},
-	{
-		"name": "snow_run2.wav",
-		"size": 53660.0
-	},
-	{
-		"name": "snow_run3.wav",
-		"size": 74104.0
-	},
-	{
-		"name": "snow_run4.wav",
-		"size": 91492.0
-	},
-	{
-		"name": "snow_run5.wav",
-		"size": 99304.0
-	},
-	{
-		"name": "snow_run6.wav",
-		"size": 109020.0
-	},
-	{
-		"name": "snow_walk1.wav",
-		"size": 93428.0
-	},
-	{
-		"name": "snow_walk2.wav",
-		"size": 92456.0
-	},
-	{
-		"name": "snow_walk3.wav",
-		"size": 98160.0
-	},
-	{
-		"name": "snow_walk4.wav",
-		"size": 102392.0
-	},
-	{
-		"name": "snow_walk5.wav",
-		"size": 78072.0
-	},
-	{
-		"name": "snow_walk6.wav",
-		"size": 76588.0
-	},
-	{
-		"name": "snow_wander1.wav",
-		"size": 48720.0
-	},
-	{
-		"name": "snow_wander2.wav",
-		"size": 69904.0
-	},
-	{
-		"name": "snow_wander3.wav",
-		"size": 72484.0
-	},
-	{
-		"name": "snow_wander4.wav",
-		"size": 113808.0
-	},
-	{
-		"name": "snow_wander5.wav",
-		"size": 87700.0
-	},
-	{
-		"name": "snow_wander6.wav",
-		"size": 71280.0
-	},
-	{
-		"name": "squeakywood_run1.wav",
-		"size": 44228.0
-	},
-	{
-		"name": "squeakywood_run11.wav",
-		"size": 43752.0
-	},
-	{
-		"name": "squeakywood_run2.wav",
-		"size": 46628.0
-	},
-	{
-		"name": "squeakywood_run3.wav",
-		"size": 43540.0
-	},
-	{
-		"name": "squeakywood_run4.wav",
-		"size": 45216.0
-	},
-	{
-		"name": "squeakywood_run5.wav",
-		"size": 43744.0
-	},
-	{
-		"name": "squeakywood_run6.wav",
-		"size": 44008.0
-	},
-	{
-		"name": "squeakywood_run7.wav",
-		"size": 42736.0
-	},
-	{
-		"name": "squeakywood_run8.wav",
-		"size": 45544.0
-	},
-	{
-		"name": "squeakywood_run9.wav",
-		"size": 44080.0
-	},
-	{
-		"name": "squeakywood_walk1.wav",
-		"size": 129532.0
-	},
-	{
-		"name": "squeakywood_walk2.wav",
-		"size": 173352.0
-	},
-	{
-		"name": "squeakywood_walk3.wav",
-		"size": 131096.0
-	},
-	{
-		"name": "squeakywood_walk4.wav",
-		"size": 131292.0
-	},
-	{
-		"name": "squeakywood_wander1.wav",
-		"size": 41856.0
-	},
-	{
-		"name": "squeakywood_wander2.wav",
-		"size": 39640.0
-	},
-	{
-		"name": "squeakywood_wander3.wav",
-		"size": 30128.0
-	},
-	{
-		"name": "squeakywood_wander4.wav",
-		"size": 42652.0
-	},
-	{
-		"name": "squeakywood_wander5.wav",
-		"size": 42652.0
-	},
-	{
-		"name": "squeakywood_wander6.wav",
-		"size": 48304.0
-	},
-	{
-		"name": "squeakywood_wander7.wav",
-		"size": 48304.0
-	},
-	{
-		"name": "squeakywood_wander8.wav",
-		"size": 24304.0
-	},
-	{
-		"name": "squeakywood_wander9.wav",
-		"size": 24304.0
-	},
-	{
-		"name": "water_through1.wav",
-		"size": 155700.0
-	},
-	{
-		"name": "water_through2.wav",
-		"size": 165148.0
-	},
-	{
-		"name": "water_through3.wav",
-		"size": 148480.0
-	},
-	{
-		"name": "water_through4.wav",
-		"size": 188428.0
-	},
-	{
-		"name": "water_wander1.wav",
-		"size": 206920.0
-	},
-	{
-		"name": "water_wander2.wav",
-		"size": 206024.0
-	},
-	{
-		"name": "water_wander3.wav",
-		"size": 146736.0
-	},
-	{
-		"name": "water_wander4.wav",
-		"size": 184316.0
-	},
-	{
-		"name": "water_wander5.wav",
-		"size": 239640.0
-	},
-	{
-		"name": "water_wander6.wav",
-		"size": 277528.0
-	},
-	{
-		"name": "water_wander7.wav",
-		"size": 294960.0
-	},
-	{
-		"name": "water_wander8.wav",
-		"size": 274484.0
-	},
-	{
-		"name": "wood_run1.wav",
-		"size": 105380.0
-	},
-	{
-		"name": "wood_run2.wav",
-		"size": 53484.0
-	},
-	{
-		"name": "wood_run3.wav",
-		"size": 132196.0
-	},
-	{
-		"name": "wood_run4.wav",
-		"size": 99332.0
-	},
-	{
-		"name": "wood_run5.wav",
-		"size": 95080.0
-	},
-	{
-		"name": "wood_run6.wav",
-		"size": 67724.0
-	},
-	{
-		"name": "wood_walk1.wav",
-		"size": 107760.0
-	},
-	{
-		"name": "wood_walk2.wav",
-		"size": 58888.0
-	},
-	{
-		"name": "wood_walk3.wav",
-		"size": 135184.0
-	},
-	{
-		"name": "wood_walk4.wav",
-		"size": 101716.0
-	},
-	{
-		"Name": "check.png",
-		"Size": 1043.0
-	},
-	{
-		"Name": "collapse.png",
-		"Size": 340.0
-	},
-	{
-		"Name": "expand.png",
-		"Size": 342.0
-	},
-	{
-		"Name": "info.png",
-		"Size": 1152.0
+	"28": {
+		"Name": "leupold_mk4.vtf",
+		"Size": 524368.0
+	},
+	"29": {
+		"Name": "leupold_mk4_normal.vtf",
+		"Size": 1048656.0
+	},
+	"30": {
+		"Name": "m11magazine.vtf",
+		"Size": 1398336.0
+	},
+	"31": {
+		"Name": "m11receiver.vtf",
+		"Size": 1398336.0
+	},
+	"32": {
+		"Name": "m24_body.vtf",
+		"Size": 1048656.0
+	},
+	"33": {
+		"Name": "m24_parts.vtf",
+		"Size": 524368.0
+	},
+	"34": {
+		"Name": "m67.vtf",
+		"Size": 174856.0
+	},
+	"35": {
+		"Name": "m79_diffuse.vtf",
+		"Size": 1398336.0
+	},
+	"36": {
+		"Name": "m79_grenade_diffuse.vtf",
+		"Size": 43912.0
+	},
+	"37": {
+		"Name": "m82.vtf",
+		"Size": 2796384.0
+	},
+	"38": {
+		"Name": "main.vtf",
+		"Size": 1048656.0
+	},
+	"39": {
+		"Name": "map1.vtf",
+		"Size": 1048656.0
+	},
+	"40": {
+		"Name": "map2.vtf",
+		"Size": 1048656.0
+	},
+	"41": {
+		"Name": "ragingbull.vtf",
+		"Size": 524368.0
+	},
+	"42": {
+		"Name": "ragingbullmount.vtf",
+		"Size": 131152.0
+	},
+	"43": {
+		"Name": "ragingbullmount_normal.vtf",
+		"Size": 262224.0
+	},
+	"44": {
+		"Name": "rpk_parts.vtf",
+		"Size": 699232.0
+	},
+	"45": {
+		"Name": "scope_leo.vtf",
+		"Size": 1048784.0
+	},
+	"46": {
+		"Name": "scoperings.vtf",
+		"Size": 524368.0
+	},
+	"47": {
+		"Name": "scoperings_normal.vtf",
+		"Size": 1048656.0
+	},
+	"48": {
+		"Name": "sparkwires.vtf",
+		"Size": 44292.0
+	},
+	"49": {
+		"Name": "uzi_main.vtf",
+		"Size": 1398336.0
+	},
+	"50": {
+		"Name": "v_870.vtf",
+		"Size": 2796384.0
+	},
+	"51": {
+		"Name": "woodstock.vtf",
+		"Size": 1398336.0
+	},
+	"sound": {
+		"footsteps": [
+			{
+				"Name": "concrete_run1.wav",
+				"Size": 106516.0
+			},
+			{
+				"Name": "concrete_run2.wav",
+				"Size": 119112.0
+			},
+			{
+				"Name": "concrete_run3.wav",
+				"Size": 125264.0
+			},
+			{
+				"Name": "concrete_run4.wav",
+				"Size": 56508.0
+			},
+			{
+				"Name": "concrete_run5.wav",
+				"Size": 76000.0
+			},
+			{
+				"Name": "concrete_run6.wav",
+				"Size": 70884.0
+			},
+			{
+				"Name": "concrete_walk1.wav",
+				"Size": 87952.0
+			},
+			{
+				"Name": "concrete_walk2.wav",
+				"Size": 107688.0
+			},
+			{
+				"Name": "concrete_walk3.wav",
+				"Size": 132900.0
+			},
+			{
+				"Name": "concrete_walk4.wav",
+				"Size": 89668.0
+			},
+			{
+				"Name": "concrete_wander1.wav",
+				"Size": 53748.0
+			},
+			{
+				"Name": "concrete_wander2.wav",
+				"Size": 42976.0
+			},
+			{
+				"Name": "concrete_wander3.wav",
+				"Size": 57124.0
+			},
+			{
+				"Name": "concrete_wander4.wav",
+				"Size": 83836.0
+			},
+			{
+				"Name": "concrete_wander5.wav",
+				"Size": 65532.0
+			},
+			{
+				"Name": "dirt_run1.wav",
+				"Size": 92212.0
+			},
+			{
+				"Name": "dirt_run2.wav",
+				"Size": 136504.0
+			},
+			{
+				"Name": "dirt_run3.wav",
+				"Size": 146896.0
+			},
+			{
+				"Name": "dirt_run4.wav",
+				"Size": 92688.0
+			},
+			{
+				"Name": "dirt_walk1.wav",
+				"Size": 87600.0
+			},
+			{
+				"Name": "dirt_walk2.wav",
+				"Size": 151636.0
+			},
+			{
+				"Name": "dirt_walk3.wav",
+				"Size": 151636.0
+			},
+			{
+				"Name": "dirt_walk4.wav",
+				"Size": 108596.0
+			},
+			{
+				"Name": "dirt_wander1.wav",
+				"Size": 81436.0
+			},
+			{
+				"Name": "dirt_wander2.wav",
+				"Size": 55972.0
+			},
+			{
+				"Name": "dirt_wander3.wav",
+				"Size": 64348.0
+			},
+			{
+				"Name": "dirt_wander4.wav",
+				"Size": 43168.0
+			},
+			{
+				"Name": "dirt_wander5.wav",
+				"Size": 102516.0
+			},
+			{
+				"Name": "duct_run1.wav",
+				"Size": 116592.0
+			},
+			{
+				"Name": "duct_run2.wav",
+				"Size": 108448.0
+			},
+			{
+				"Name": "duct_run3.wav",
+				"Size": 120888.0
+			},
+			{
+				"Name": "duct_run4.wav",
+				"Size": 148772.0
+			},
+			{
+				"Name": "duct_walk1.wav",
+				"Size": 127184.0
+			},
+			{
+				"Name": "duct_walk2.wav",
+				"Size": 133724.0
+			},
+			{
+				"Name": "duct_walk3.wav",
+				"Size": 119636.0
+			},
+			{
+				"Name": "duct_walk4.wav",
+				"Size": 169324.0
+			},
+			{
+				"Name": "duct_wander1.wav",
+				"Size": 109060.0
+			},
+			{
+				"Name": "duct_wander2.wav",
+				"Size": 182796.0
+			},
+			{
+				"Name": "duct_wander3.wav",
+				"Size": 182796.0
+			},
+			{
+				"Name": "duct_wander4.wav",
+				"Size": 197224.0
+			},
+			{
+				"Name": "glass_run1.wav",
+				"Size": 71212.0
+			},
+			{
+				"Name": "glass_run2.wav",
+				"Size": 79212.0
+			},
+			{
+				"Name": "glass_run3.wav",
+				"Size": 69292.0
+			},
+			{
+				"Name": "glass_run4.wav",
+				"Size": 85180.0
+			},
+			{
+				"Name": "glass_walk1.wav",
+				"Size": 121744.0
+			},
+			{
+				"Name": "glass_walk2.wav",
+				"Size": 135420.0
+			},
+			{
+				"Name": "glass_walk3.wav",
+				"Size": 118460.0
+			},
+			{
+				"Name": "glass_walk4.wav",
+				"Size": 145628.0
+			},
+			{
+				"Name": "glass_wander1.wav",
+				"Size": 74188.0
+			},
+			{
+				"Name": "glass_wander2.wav",
+				"Size": 59972.0
+			},
+			{
+				"Name": "glass_wander3.wav",
+				"Size": 67076.0
+			},
+			{
+				"Name": "glass_wander4.wav",
+				"Size": 86644.0
+			},
+			{
+				"Name": "grass_run1.wav",
+				"Size": 111708.0
+			},
+			{
+				"Name": "grass_run2.wav",
+				"Size": 98800.0
+			},
+			{
+				"Name": "grass_run3.wav",
+				"Size": 120732.0
+			},
+			{
+				"Name": "grass_run4.wav",
+				"Size": 102916.0
+			},
+			{
+				"Name": "grass_run5.wav",
+				"Size": 78316.0
+			},
+			{
+				"Name": "grass_run6.wav",
+				"Size": 105600.0
+			},
+			{
+				"Name": "grass_walk1.wav",
+				"Size": 151244.0
+			},
+			{
+				"Name": "grass_walk2.wav",
+				"Size": 151268.0
+			},
+			{
+				"Name": "grass_walk3.wav",
+				"Size": 145428.0
+			},
+			{
+				"Name": "grass_walk4.wav",
+				"Size": 141956.0
+			},
+			{
+				"Name": "grass_wander1.wav",
+				"Size": 173728.0
+			},
+			{
+				"Name": "grass_wander2.wav",
+				"Size": 199616.0
+			},
+			{
+				"Name": "grass_wander3.wav",
+				"Size": 181896.0
+			},
+			{
+				"Name": "grass_wander4.wav",
+				"Size": 169404.0
+			},
+			{
+				"Name": "grass_wander5.wav",
+				"Size": 201812.0
+			},
+			{
+				"Name": "grass_wander6.wav",
+				"Size": 103512.0
+			},
+			{
+				"Name": "gravel_run1.wav",
+				"Size": 92564.0
+			},
+			{
+				"Name": "gravel_run2.wav",
+				"Size": 62188.0
+			},
+			{
+				"Name": "gravel_run3.wav",
+				"Size": 96204.0
+			},
+			{
+				"Name": "gravel_run4.wav",
+				"Size": 69476.0
+			},
+			{
+				"Name": "gravel_walk1.wav",
+				"Size": 129572.0
+			},
+			{
+				"Name": "gravel_walk2.wav",
+				"Size": 87044.0
+			},
+			{
+				"Name": "gravel_walk3.wav",
+				"Size": 134668.0
+			},
+			{
+				"Name": "gravel_walk4.wav",
+				"Size": 97248.0
+			},
+			{
+				"Name": "gravel_wander1.wav",
+				"Size": 89916.0
+			},
+			{
+				"Name": "gravel_wander2.wav",
+				"Size": 99100.0
+			},
+			{
+				"Name": "gravel_wander3.wav",
+				"Size": 133056.0
+			},
+			{
+				"Name": "marble_run1.wav",
+				"Size": 47240.0
+			},
+			{
+				"Name": "marble_run11.wav",
+				"Size": 45292.0
+			},
+			{
+				"Name": "marble_run2.wav",
+				"Size": 45060.0
+			},
+			{
+				"Name": "marble_run3.wav",
+				"Size": 43900.0
+			},
+			{
+				"Name": "marble_run4.wav",
+				"Size": 43956.0
+			},
+			{
+				"Name": "marble_run5.wav",
+				"Size": 45992.0
+			},
+			{
+				"Name": "marble_run6.wav",
+				"Size": 45492.0
+			},
+			{
+				"Name": "marble_run7.wav",
+				"Size": 46036.0
+			},
+			{
+				"Name": "marble_run8.wav",
+				"Size": 43964.0
+			},
+			{
+				"Name": "marble_run9.wav",
+				"Size": 44032.0
+			},
+			{
+				"Name": "marble_walk1.wav",
+				"Size": 60568.0
+			},
+			{
+				"Name": "marble_walk2.wav",
+				"Size": 84952.0
+			},
+			{
+				"Name": "marble_walk3.wav",
+				"Size": 79428.0
+			},
+			{
+				"Name": "marble_walk4.wav",
+				"Size": 91844.0
+			},
+			{
+				"Name": "marble_wander1.wav",
+				"Size": 34220.0
+			},
+			{
+				"Name": "marble_wander2.wav",
+				"Size": 22616.0
+			},
+			{
+				"Name": "marble_wander3.wav",
+				"Size": 43992.0
+			},
+			{
+				"Name": "marble_wander4.wav",
+				"Size": 26224.0
+			},
+			{
+				"Name": "melee_hitworld1.wav",
+				"Size": 16802.0
+			},
+			{
+				"Name": "melee_slash1.wav",
+				"Size": 71790.0
+			},
+			{
+				"Name": "melee_slash2.wav",
+				"Size": 77304.0
+			},
+			{
+				"Name": "melee_slash3.wav",
+				"Size": 88328.0
+			},
+			{
+				"Name": "metalbar_run1.wav",
+				"Size": 88716.0
+			},
+			{
+				"Name": "metalbar_run2.wav",
+				"Size": 69268.0
+			},
+			{
+				"Name": "metalbar_run3.wav",
+				"Size": 96584.0
+			},
+			{
+				"Name": "metalbar_run4.wav",
+				"Size": 98160.0
+			},
+			{
+				"Name": "metalbar_run5.wav",
+				"Size": 100124.0
+			},
+			{
+				"Name": "metalbar_run6.wav",
+				"Size": 99232.0
+			},
+			{
+				"Name": "metalbar_run7.wav",
+				"Size": 103840.0
+			},
+			{
+				"Name": "metalbar_run8.wav",
+				"Size": 105708.0
+			},
+			{
+				"Name": "metalbar_run9.wav",
+				"Size": 99620.0
+			},
+			{
+				"Name": "metalbar_walk1.wav",
+				"Size": 64784.0
+			},
+			{
+				"Name": "metalbar_walk2.wav",
+				"Size": 71192.0
+			},
+			{
+				"Name": "metalbar_walk3.wav",
+				"Size": 74228.0
+			},
+			{
+				"Name": "metalbar_walk4.wav",
+				"Size": 59144.0
+			},
+			{
+				"Name": "metalbar_walk5.wav",
+				"Size": 57904.0
+			},
+			{
+				"Name": "metalbar_walk6.wav",
+				"Size": 71460.0
+			},
+			{
+				"Name": "metalbar_walk7.wav",
+				"Size": 72504.0
+			},
+			{
+				"Name": "metalbar_walk8.wav",
+				"Size": 52008.0
+			},
+			{
+				"Name": "metalbar_walk9.wav",
+				"Size": 58368.0
+			},
+			{
+				"Name": "metalbar_wander1.wav",
+				"Size": 32896.0
+			},
+			{
+				"Name": "metalbar_wander2.wav",
+				"Size": 30744.0
+			},
+			{
+				"Name": "metalbar_wander3.wav",
+				"Size": 22332.0
+			},
+			{
+				"Name": "metalbox_run1.wav",
+				"Size": 104296.0
+			},
+			{
+				"Name": "metalbox_run2.wav",
+				"Size": 129220.0
+			},
+			{
+				"Name": "metalbox_run3.wav",
+				"Size": 99448.0
+			},
+			{
+				"Name": "metalbox_run4.wav",
+				"Size": 87776.0
+			},
+			{
+				"Name": "metalbox_run5.wav",
+				"Size": 101760.0
+			},
+			{
+				"Name": "metalbox_walk1.wav",
+				"Size": 147412.0
+			},
+			{
+				"Name": "metalbox_walk2.wav",
+				"Size": 194208.0
+			},
+			{
+				"Name": "metalbox_walk3.wav",
+				"Size": 127980.0
+			},
+			{
+				"Name": "metalbox_walk4.wav",
+				"Size": 125896.0
+			},
+			{
+				"Name": "metalbox_wander1.wav",
+				"Size": 52940.0
+			},
+			{
+				"Name": "metalbox_wander2.wav",
+				"Size": 57464.0
+			},
+			{
+				"Name": "metalbox_wander3.wav",
+				"Size": 58544.0
+			},
+			{
+				"Name": "metalbox_wander4.wav",
+				"Size": 76656.0
+			},
+			{
+				"Name": "mud_run1.wav",
+				"Size": 68908.0
+			},
+			{
+				"Name": "mud_run2.wav",
+				"Size": 84392.0
+			},
+			{
+				"Name": "mud_run3.wav",
+				"Size": 96824.0
+			},
+			{
+				"Name": "mud_run4.wav",
+				"Size": 89908.0
+			},
+			{
+				"Name": "mud_walk1.wav",
+				"Size": 74744.0
+			},
+			{
+				"Name": "mud_walk2.wav",
+				"Size": 92468.0
+			},
+			{
+				"Name": "mud_walk3.wav",
+				"Size": 97648.0
+			},
+			{
+				"Name": "mud_walk4.wav",
+				"Size": 125852.0
+			},
+			{
+				"Name": "mud_wander1.wav",
+				"Size": 70312.0
+			},
+			{
+				"Name": "mud_wander2.wav",
+				"Size": 60800.0
+			},
+			{
+				"Name": "mud_wander3.wav",
+				"Size": 103028.0
+			},
+			{
+				"Name": "mud_wander4.wav",
+				"Size": 130632.0
+			},
+			{
+				"Name": "sand_run1.wav",
+				"Size": 48656.0
+			},
+			{
+				"Name": "sand_run2.wav",
+				"Size": 80920.0
+			},
+			{
+				"Name": "sand_run3.wav",
+				"Size": 31324.0
+			},
+			{
+				"Name": "sand_run4.wav",
+				"Size": 45908.0
+			},
+			{
+				"Name": "sand_walk1.wav",
+				"Size": 59452.0
+			},
+			{
+				"Name": "sand_walk2.wav",
+				"Size": 78772.0
+			},
+			{
+				"Name": "sand_walk3.wav",
+				"Size": 48240.0
+			},
+			{
+				"Name": "sand_walk4.wav",
+				"Size": 60996.0
+			},
+			{
+				"Name": "sand_wander1.wav",
+				"Size": 67812.0
+			},
+			{
+				"Name": "sand_wander2.wav",
+				"Size": 95452.0
+			},
+			{
+				"Name": "sand_wander3.wav",
+				"Size": 95608.0
+			},
+			{
+				"Name": "sand_wander4.wav",
+				"Size": 76912.0
+			},
+			{
+				"Name": "sand_wander5.wav",
+				"Size": 120868.0
+			},
+			{
+				"Name": "sand_wander6.wav",
+				"Size": 73444.0
+			},
+			{
+				"Name": "snow_run1.wav",
+				"Size": 84780.0
+			},
+			{
+				"Name": "snow_run2.wav",
+				"Size": 53660.0
+			},
+			{
+				"Name": "snow_run3.wav",
+				"Size": 74104.0
+			},
+			{
+				"Name": "snow_run4.wav",
+				"Size": 91492.0
+			},
+			{
+				"Name": "snow_run5.wav",
+				"Size": 99304.0
+			},
+			{
+				"Name": "snow_run6.wav",
+				"Size": 109020.0
+			},
+			{
+				"Name": "snow_walk1.wav",
+				"Size": 93428.0
+			},
+			{
+				"Name": "snow_walk2.wav",
+				"Size": 92456.0
+			},
+			{
+				"Name": "snow_walk3.wav",
+				"Size": 98160.0
+			},
+			{
+				"Name": "snow_walk4.wav",
+				"Size": 102392.0
+			},
+			{
+				"Name": "snow_walk5.wav",
+				"Size": 78072.0
+			},
+			{
+				"Name": "snow_walk6.wav",
+				"Size": 76588.0
+			},
+			{
+				"Name": "snow_wander1.wav",
+				"Size": 48720.0
+			},
+			{
+				"Name": "snow_wander2.wav",
+				"Size": 69904.0
+			},
+			{
+				"Name": "snow_wander3.wav",
+				"Size": 72484.0
+			},
+			{
+				"Name": "snow_wander4.wav",
+				"Size": 113808.0
+			},
+			{
+				"Name": "snow_wander5.wav",
+				"Size": 87700.0
+			},
+			{
+				"Name": "snow_wander6.wav",
+				"Size": 71280.0
+			},
+			{
+				"Name": "squeakywood_run1.wav",
+				"Size": 44228.0
+			},
+			{
+				"Name": "squeakywood_run11.wav",
+				"Size": 43752.0
+			},
+			{
+				"Name": "squeakywood_run2.wav",
+				"Size": 46628.0
+			},
+			{
+				"Name": "squeakywood_run3.wav",
+				"Size": 43540.0
+			},
+			{
+				"Name": "squeakywood_run4.wav",
+				"Size": 45216.0
+			},
+			{
+				"Name": "squeakywood_run5.wav",
+				"Size": 43744.0
+			},
+			{
+				"Name": "squeakywood_run6.wav",
+				"Size": 44008.0
+			},
+			{
+				"Name": "squeakywood_run7.wav",
+				"Size": 42736.0
+			},
+			{
+				"Name": "squeakywood_run8.wav",
+				"Size": 45544.0
+			},
+			{
+				"Name": "squeakywood_run9.wav",
+				"Size": 44080.0
+			},
+			{
+				"Name": "squeakywood_walk1.wav",
+				"Size": 129532.0
+			},
+			{
+				"Name": "squeakywood_walk2.wav",
+				"Size": 173352.0
+			},
+			{
+				"Name": "squeakywood_walk3.wav",
+				"Size": 131096.0
+			},
+			{
+				"Name": "squeakywood_walk4.wav",
+				"Size": 131292.0
+			},
+			{
+				"Name": "squeakywood_wander1.wav",
+				"Size": 41856.0
+			},
+			{
+				"Name": "squeakywood_wander2.wav",
+				"Size": 39640.0
+			},
+			{
+				"Name": "squeakywood_wander3.wav",
+				"Size": 30128.0
+			},
+			{
+				"Name": "squeakywood_wander4.wav",
+				"Size": 42652.0
+			},
+			{
+				"Name": "squeakywood_wander5.wav",
+				"Size": 42652.0
+			},
+			{
+				"Name": "squeakywood_wander6.wav",
+				"Size": 48304.0
+			},
+			{
+				"Name": "squeakywood_wander7.wav",
+				"Size": 48304.0
+			},
+			{
+				"Name": "squeakywood_wander8.wav",
+				"Size": 24304.0
+			},
+			{
+				"Name": "squeakywood_wander9.wav",
+				"Size": 24304.0
+			},
+			{
+				"Name": "water_through1.wav",
+				"Size": 155700.0
+			},
+			{
+				"Name": "water_through2.wav",
+				"Size": 165148.0
+			},
+			{
+				"Name": "water_through3.wav",
+				"Size": 148480.0
+			},
+			{
+				"Name": "water_through4.wav",
+				"Size": 188428.0
+			},
+			{
+				"Name": "water_wander1.wav",
+				"Size": 206920.0
+			},
+			{
+				"Name": "water_wander2.wav",
+				"Size": 206024.0
+			},
+			{
+				"Name": "water_wander3.wav",
+				"Size": 146736.0
+			},
+			{
+				"Name": "water_wander4.wav",
+				"Size": 184316.0
+			},
+			{
+				"Name": "water_wander5.wav",
+				"Size": 239640.0
+			},
+			{
+				"Name": "water_wander6.wav",
+				"Size": 277528.0
+			},
+			{
+				"Name": "water_wander7.wav",
+				"Size": 294960.0
+			},
+			{
+				"Name": "water_wander8.wav",
+				"Size": 274484.0
+			},
+			{
+				"Name": "wood_run1.wav",
+				"Size": 105380.0
+			},
+			{
+				"Name": "wood_run2.wav",
+				"Size": 53484.0
+			},
+			{
+				"Name": "wood_run3.wav",
+				"Size": 132196.0
+			},
+			{
+				"Name": "wood_run4.wav",
+				"Size": 99332.0
+			},
+			{
+				"Name": "wood_run5.wav",
+				"Size": 95080.0
+			},
+			{
+				"Name": "wood_run6.wav",
+				"Size": 67724.0
+			},
+			{
+				"Name": "wood_walk1.wav",
+				"Size": 107760.0
+			},
+			{
+				"Name": "wood_walk2.wav",
+				"Size": 58888.0
+			},
+			{
+				"Name": "wood_walk3.wav",
+				"Size": 135184.0
+			},
+			{
+				"Name": "wood_walk4.wav",
+				"Size": 101716.0
+			}
+		],
+		"generic": [
+			{
+				"Name": "flashlight.wav",
+				"Size": 46158.0
+			}
+		],
+		"weapons": [
+			{
+				"Name": "ak47_cock.wav",
+				"Size": 61832.0
+			},
+			{
+				"Name": "ak47_fire1.wav",
+				"Size": 417700.0
+			},
+			{
+				"Name": "ak47_magin.wav",
+				"Size": 30080.0
+			},
+			{
+				"Name": "ak47_magout.wav",
+				"Size": 33906.0
+			},
+			{
+				"Name": "ak47_magout_empty.wav",
+				"Size": 27688.0
+			},
+			{
+				"Name": "de_fire1.wav",
+				"Size": 441128.0
+			},
+			{
+				"Name": "de_magin.wav",
+				"Size": 27688.0
+			},
+			{
+				"Name": "de_magin_partial.wav",
+				"Size": 11152.0
+			},
+			{
+				"Name": "de_magout.wav",
+				"Size": 27688.0
+			},
+			{
+				"Name": "de_magout_empty.wav",
+				"Size": 22176.0
+			},
+			{
+				"Name": "de_sliderelease.wav",
+				"Size": 16664.0
+			},
+			{
+				"Name": "empty_assaultrifles.wav",
+				"Size": 13908.0
+			},
+			{
+				"Name": "empty_battlerifles.wav",
+				"Size": 11152.0
+			},
+			{
+				"Name": "empty_machineguns.wav",
+				"Size": 11840.0
+			},
+			{
+				"Name": "empty_shotguns.wav",
+				"Size": 15974.0
+			},
+			{
+				"Name": "empty_sniperrifles.wav",
+				"Size": 22176.0
+			},
+			{
+				"Name": "empty_submachineguns.wav",
+				"Size": 11840.0
+			},
+			{
+				"Name": "generic_magpouch1.wav",
+				"Size": 44892.0
+			},
+			{
+				"Name": "generic_magpouch_mg1.wav",
+				"Size": 44892.0
+			},
+			{
+				"Name": "generic_magpouch_pistol1.wav",
+				"Size": 36230.0
+			},
+			{
+				"Name": "generic_magpouch_shotgun1.wav",
+				"Size": 36230.0
+			},
+			{
+				"Name": "generic_magpouch_smg1.wav",
+				"Size": 36230.0
+			},
+			{
+				"Name": "glock20_fire1.wav",
+				"Size": 441128.0
+			},
+			{
+				"Name": "glock20_magin.wav",
+				"Size": 54218.0
+			},
+			{
+				"Name": "glock20_magout.wav",
+				"Size": 27688.0
+			},
+			{
+				"Name": "glock20_magout_empty.wav",
+				"Size": 27688.0
+			},
+			{
+				"Name": "glock20_sliderelease.wav",
+				"Size": 78178.0
+			},
+			{
+				"Name": "knife_hit1.wav",
+				"Size": 42578.0
+			},
+			{
+				"Name": "knife_hit2.wav",
+				"Size": 48490.0
+			},
+			{
+				"Name": "knife_hit3.wav",
+				"Size": 54510.0
+			},
+			{
+				"Name": "knife_stab.wav",
+				"Size": 29418.0
+			},
+			{
+				"Name": "m3s90_fire1.wav",
+				"Size": 617526.0
+			},
+			{
+				"Name": "m3s90_getammo.wav",
+				"Size": 33202.0
+			},
+			{
+				"Name": "m3s90_insert.wav",
+				"Size": 40082.0
+			},
+			{
+				"Name": "m4_boltcatch.wav",
+				"Size": 66194.0
+			},
+			{
+				"Name": "m4_fire1.wav",
+				"Size": 374980.0
+			},
+			{
+				"Name": "m4_magin.wav",
+				"Size": 45674.0
+			},
+			{
+				"Name": "m4_magout.wav",
+				"Size": 26510.0
+			},
+			{
+				"Name": "m4_magout_empty.wav",
+				"Size": 28300.0
+			},
+			{
+				"Name": "p226.vtf",
+				"Size": 1398336.0
+			},
+			{
+				"Name": "p226_fire1.wav",
+				"Size": 397150.0
+			},
+			{
+				"Name": "p226_magin.wav",
+				"Size": 19422.0
+			},
+			{
+				"Name": "p226_magin_partial.wav",
+				"Size": 16666.0
+			},
+			{
+				"Name": "p226_magout.wav",
+				"Size": 22178.0
+			},
+			{
+				"Name": "p226_slideback.wav",
+				"Size": 11154.0
+			},
+			{
+				"Name": "p226_slideforward.wav",
+				"Size": 8396.0
+			},
+			{
+				"Name": "p226_slidestop.wav",
+				"Size": 8396.0
+			},
+			{
+				"Name": "ragingbull_close.wav",
+				"Size": 24932.0
+			},
+			{
+				"Name": "ragingbull_extractor.wav",
+				"Size": 20946.0
+			},
+			{
+				"Name": "ragingbull_fire1.wav",
+				"Size": 661628.0
+			},
+			{
+				"Name": "ragingbull_insert.wav",
+				"Size": 24850.0
+			},
+			{
+				"Name": "ragingbull_jiggle.wav",
+				"Size": 52964.0
+			},
+			{
+				"Name": "ragingbull_normal.vtf",
+				"Size": 1048656.0
+			},
+			{
+				"Name": "ragingbull_open.wav",
+				"Size": 35398.0
+			},
+			{
+				"Name": "ragingbull_remove.wav",
+				"Size": 42380.0
+			},
+			{
+				"Name": "switch1.wav",
+				"Size": 19422.0
+			},
+			{
+				"Name": "switch2.wav",
+				"Size": 19422.0
+			},
+			{
+				"Name": "switch3.wav",
+				"Size": 19422.0
+			},
+			{
+				"Name": "switch4.wav",
+				"Size": 19422.0
+			},
+			{
+				"Name": "switch5.wav",
+				"Size": 19422.0
+			},
+			{
+				"Name": "switch6.wav",
+				"Size": 13910.0
+			},
+			{
+				"Name": "weapon_deploy1.wav",
+				"Size": 54366.0
+			},
+			{
+				"Name": "weapon_deploy2.wav",
+				"Size": 66194.0
+			},
+			{
+				"Name": "weapon_deploy3.wav",
+				"Size": 79424.0
+			},
+			{
+				"Name": "weapon_holster1.wav",
+				"Size": 75014.0
+			},
+			{
+				"Name": "weapon_holster2.wav",
+				"Size": 70604.0
+			},
+			{
+				"Name": "weapon_holster3.wav",
+				"Size": 86940.0
+			},
+			{
+				"Name": "weapon_sightlower.wav",
+				"Size": 75014.0
+			},
+			{
+				"Name": "weapon_sightlower2.wav",
+				"Size": 88244.0
+			},
+			{
+				"Name": "weapon_sightraise.wav",
+				"Size": 52964.0
+			},
+			{
+				"Name": "weapon_sightraise2.wav",
+				"Size": 61784.0
+			}
+		]
+	},
+	"materials": {
+		"ui": {
+			"1": {
+				"Name": "add.png",
+				"Size": 3966.0
+			},
+			"2": {
+				"Name": "arrowright16.png",
+				"Size": 150.0
+			},
+			"3": {
+				"Name": "check.png",
+				"Size": 1043.0
+			},
+			"4": {
+				"Name": "collapse.png",
+				"Size": 340.0
+			},
+			"5": {
+				"Name": "expand.png",
+				"Size": 342.0
+			},
+			"6": {
+				"Name": "hand96.png",
+				"Size": 1866.0
+			},
+			"7": {
+				"Name": "hand_rock.png",
+				"Size": 422.0
+			},
+			"8": {
+				"Name": "info.png",
+				"Size": 1152.0
+			},
+			"9": {
+				"Name": "one_finger.png",
+				"Size": 378.0
+			},
+			"10": {
+				"Name": "trousers96.png",
+				"Size": 2223.0
+			},
+			"items": [
+				{
+					"Name": "assault_rifle.png",
+					"Size": 1894.0
+				},
+				{
+					"Name": "assault_rifle2.png",
+					"Size": 2289.0
+				},
+				{
+					"Name": "breakable.png",
+					"Size": 499.0
+				},
+				{
+					"Name": "buckshot.png",
+					"Size": 1196.0
+				},
+				{
+					"Name": "flashlight.png",
+					"Size": 1209.0
+				},
+				{
+					"Name": "grenade.png",
+					"Size": 2235.0
+				},
+				{
+					"Name": "highcaliber.png",
+					"Size": 1296.0
+				},
+				{
+					"Name": "jacket96.png",
+					"Size": 1588.0
+				},
+				{
+					"Name": "knife.png",
+					"Size": 2299.0
+				},
+				{
+					"Name": "lowcaliber.png",
+					"Size": 1082.0
+				},
+				{
+					"Name": "machete.png",
+					"Size": 1777.0
+				},
+				{
+					"Name": "money.png",
+					"Size": 1870.0
+				},
+				{
+					"Name": "pistol.png",
+					"Size": 3647.0
+				},
+				{
+					"Name": "rifle_magazine.png",
+					"Size": 1556.0
+				},
+				{
+					"Name": "shotgun.png",
+					"Size": 3252.0
+				},
+				{
+					"Name": "sniper_rifle.png",
+					"Size": 3799.0
+				},
+				{
+					"Name": "submachine_gun.png",
+					"Size": 4244.0
+				}
+			]
+		}
 	}
-]
+}
