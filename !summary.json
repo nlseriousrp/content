@@ -699,14 +699,6 @@
 				{
 					"Name": "marble_wander4.wav",
 					"Size": 26224.0
-				},
-				{
-					"Name": "marble_wander5.wav",
-					"Size": 48.0
-				},
-				{
-					"Name": "marble_wander6.wav",
-					"Size": 48.0
 				}
 			],
 			"mud": [
@@ -1105,14 +1097,6 @@
 				{
 					"Name": "squeakywood_wander1.wav",
 					"Size": 41856.0
-				},
-				{
-					"Name": "squeakywood_wander10.wav",
-					"Size": 48.0
-				},
-				{
-					"Name": "squeakywood_wander11.wav",
-					"Size": 48.0
 				},
 				{
 					"Name": "squeakywood_wander2.wav",
