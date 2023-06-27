@@ -204,904 +204,950 @@
 		"Size": 1398336.0
 	},
 	"sound": {
-		"footsteps": [
-			{
-				"Name": "concrete_run1.wav",
-				"Size": 106516.0
-			},
-			{
-				"Name": "concrete_run2.wav",
-				"Size": 119112.0
-			},
-			{
-				"Name": "concrete_run3.wav",
-				"Size": 125264.0
-			},
-			{
-				"Name": "concrete_run4.wav",
-				"Size": 56508.0
-			},
-			{
-				"Name": "concrete_run5.wav",
-				"Size": 76000.0
-			},
-			{
-				"Name": "concrete_run6.wav",
-				"Size": 70884.0
-			},
-			{
-				"Name": "concrete_walk1.wav",
-				"Size": 87952.0
-			},
-			{
-				"Name": "concrete_walk2.wav",
-				"Size": 107688.0
-			},
-			{
-				"Name": "concrete_walk3.wav",
-				"Size": 132900.0
-			},
-			{
-				"Name": "concrete_walk4.wav",
-				"Size": 89668.0
-			},
-			{
-				"Name": "concrete_wander1.wav",
-				"Size": 53748.0
-			},
-			{
-				"Name": "concrete_wander2.wav",
-				"Size": 42976.0
-			},
-			{
-				"Name": "concrete_wander3.wav",
-				"Size": 57124.0
-			},
-			{
-				"Name": "concrete_wander4.wav",
-				"Size": 83836.0
-			},
-			{
-				"Name": "concrete_wander5.wav",
-				"Size": 65532.0
-			},
-			{
-				"Name": "dirt_run1.wav",
-				"Size": 92212.0
-			},
-			{
-				"Name": "dirt_run2.wav",
-				"Size": 136504.0
-			},
-			{
-				"Name": "dirt_run3.wav",
-				"Size": 146896.0
-			},
-			{
-				"Name": "dirt_run4.wav",
-				"Size": 92688.0
-			},
-			{
-				"Name": "dirt_walk1.wav",
-				"Size": 87600.0
-			},
-			{
-				"Name": "dirt_walk2.wav",
-				"Size": 151636.0
-			},
-			{
-				"Name": "dirt_walk3.wav",
-				"Size": 151636.0
-			},
-			{
-				"Name": "dirt_walk4.wav",
-				"Size": 108596.0
-			},
-			{
-				"Name": "dirt_wander1.wav",
-				"Size": 81436.0
-			},
-			{
-				"Name": "dirt_wander2.wav",
-				"Size": 55972.0
-			},
-			{
-				"Name": "dirt_wander3.wav",
-				"Size": 64348.0
-			},
-			{
-				"Name": "dirt_wander4.wav",
-				"Size": 43168.0
-			},
-			{
-				"Name": "dirt_wander5.wav",
-				"Size": 102516.0
-			},
-			{
-				"Name": "duct_run1.wav",
-				"Size": 116592.0
-			},
-			{
-				"Name": "duct_run2.wav",
-				"Size": 108448.0
-			},
-			{
-				"Name": "duct_run3.wav",
-				"Size": 120888.0
-			},
-			{
-				"Name": "duct_run4.wav",
-				"Size": 148772.0
-			},
-			{
-				"Name": "duct_walk1.wav",
-				"Size": 127184.0
-			},
-			{
-				"Name": "duct_walk2.wav",
-				"Size": 133724.0
-			},
-			{
-				"Name": "duct_walk3.wav",
-				"Size": 119636.0
-			},
-			{
-				"Name": "duct_walk4.wav",
-				"Size": 169324.0
-			},
-			{
-				"Name": "duct_wander1.wav",
-				"Size": 109060.0
-			},
-			{
-				"Name": "duct_wander2.wav",
-				"Size": 182796.0
-			},
-			{
-				"Name": "duct_wander3.wav",
-				"Size": 182796.0
-			},
-			{
-				"Name": "duct_wander4.wav",
-				"Size": 197224.0
-			},
-			{
-				"Name": "glass_run1.wav",
-				"Size": 71212.0
-			},
-			{
-				"Name": "glass_run2.wav",
-				"Size": 79212.0
-			},
-			{
-				"Name": "glass_run3.wav",
-				"Size": 69292.0
-			},
-			{
-				"Name": "glass_run4.wav",
-				"Size": 85180.0
-			},
-			{
-				"Name": "glass_walk1.wav",
-				"Size": 121744.0
-			},
-			{
-				"Name": "glass_walk2.wav",
-				"Size": 135420.0
-			},
-			{
-				"Name": "glass_walk3.wav",
-				"Size": 118460.0
-			},
-			{
-				"Name": "glass_walk4.wav",
-				"Size": 145628.0
-			},
-			{
-				"Name": "glass_wander1.wav",
-				"Size": 74188.0
-			},
-			{
-				"Name": "glass_wander2.wav",
-				"Size": 59972.0
-			},
-			{
-				"Name": "glass_wander3.wav",
-				"Size": 67076.0
-			},
-			{
-				"Name": "glass_wander4.wav",
-				"Size": 86644.0
-			},
-			{
-				"Name": "grass_run1.wav",
-				"Size": 111708.0
-			},
-			{
-				"Name": "grass_run2.wav",
-				"Size": 98800.0
-			},
-			{
-				"Name": "grass_run3.wav",
-				"Size": 120732.0
-			},
-			{
-				"Name": "grass_run4.wav",
-				"Size": 102916.0
-			},
-			{
-				"Name": "grass_run5.wav",
-				"Size": 78316.0
-			},
-			{
-				"Name": "grass_run6.wav",
-				"Size": 105600.0
-			},
-			{
-				"Name": "grass_walk1.wav",
-				"Size": 151244.0
-			},
-			{
-				"Name": "grass_walk2.wav",
-				"Size": 151268.0
-			},
-			{
-				"Name": "grass_walk3.wav",
-				"Size": 145428.0
-			},
-			{
-				"Name": "grass_walk4.wav",
-				"Size": 141956.0
-			},
-			{
-				"Name": "grass_wander1.wav",
-				"Size": 173728.0
-			},
-			{
-				"Name": "grass_wander2.wav",
-				"Size": 199616.0
-			},
-			{
-				"Name": "grass_wander3.wav",
-				"Size": 181896.0
-			},
-			{
-				"Name": "grass_wander4.wav",
-				"Size": 169404.0
-			},
-			{
-				"Name": "grass_wander5.wav",
-				"Size": 201812.0
-			},
-			{
-				"Name": "grass_wander6.wav",
-				"Size": 103512.0
-			},
-			{
-				"Name": "gravel_run1.wav",
-				"Size": 92564.0
-			},
-			{
-				"Name": "gravel_run2.wav",
-				"Size": 62188.0
-			},
-			{
-				"Name": "gravel_run3.wav",
-				"Size": 96204.0
-			},
-			{
-				"Name": "gravel_run4.wav",
-				"Size": 69476.0
-			},
-			{
-				"Name": "gravel_walk1.wav",
-				"Size": 129572.0
-			},
-			{
-				"Name": "gravel_walk2.wav",
-				"Size": 87044.0
-			},
-			{
-				"Name": "gravel_walk3.wav",
-				"Size": 134668.0
-			},
-			{
-				"Name": "gravel_walk4.wav",
-				"Size": 97248.0
-			},
-			{
-				"Name": "gravel_wander1.wav",
-				"Size": 89916.0
-			},
-			{
-				"Name": "gravel_wander2.wav",
-				"Size": 99100.0
-			},
-			{
-				"Name": "gravel_wander3.wav",
-				"Size": 133056.0
-			},
-			{
-				"Name": "marble_run1.wav",
-				"Size": 47240.0
-			},
-			{
-				"Name": "marble_run11.wav",
-				"Size": 45292.0
-			},
-			{
-				"Name": "marble_run2.wav",
-				"Size": 45060.0
-			},
-			{
-				"Name": "marble_run3.wav",
-				"Size": 43900.0
-			},
-			{
-				"Name": "marble_run4.wav",
-				"Size": 43956.0
-			},
-			{
-				"Name": "marble_run5.wav",
-				"Size": 45992.0
-			},
-			{
-				"Name": "marble_run6.wav",
-				"Size": 45492.0
-			},
-			{
-				"Name": "marble_run7.wav",
-				"Size": 46036.0
-			},
-			{
-				"Name": "marble_run8.wav",
-				"Size": 43964.0
-			},
-			{
-				"Name": "marble_run9.wav",
-				"Size": 44032.0
-			},
-			{
-				"Name": "marble_walk1.wav",
-				"Size": 60568.0
-			},
-			{
-				"Name": "marble_walk2.wav",
-				"Size": 84952.0
-			},
-			{
-				"Name": "marble_walk3.wav",
-				"Size": 79428.0
-			},
-			{
-				"Name": "marble_walk4.wav",
-				"Size": 91844.0
-			},
-			{
-				"Name": "marble_wander1.wav",
-				"Size": 34220.0
-			},
-			{
-				"Name": "marble_wander2.wav",
-				"Size": 22616.0
-			},
-			{
-				"Name": "marble_wander3.wav",
-				"Size": 43992.0
-			},
-			{
-				"Name": "marble_wander4.wav",
-				"Size": 26224.0
-			},
-			{
-				"Name": "melee_hitworld1.wav",
-				"Size": 16802.0
-			},
-			{
-				"Name": "melee_slash1.wav",
-				"Size": 71790.0
-			},
-			{
-				"Name": "melee_slash2.wav",
-				"Size": 77304.0
-			},
-			{
-				"Name": "melee_slash3.wav",
-				"Size": 88328.0
-			},
-			{
-				"Name": "metalbar_run1.wav",
-				"Size": 88716.0
-			},
-			{
-				"Name": "metalbar_run2.wav",
-				"Size": 69268.0
-			},
-			{
-				"Name": "metalbar_run3.wav",
-				"Size": 96584.0
-			},
-			{
-				"Name": "metalbar_run4.wav",
-				"Size": 98160.0
-			},
-			{
-				"Name": "metalbar_run5.wav",
-				"Size": 100124.0
-			},
-			{
-				"Name": "metalbar_run6.wav",
-				"Size": 99232.0
-			},
-			{
-				"Name": "metalbar_run7.wav",
-				"Size": 103840.0
-			},
-			{
-				"Name": "metalbar_run8.wav",
-				"Size": 105708.0
-			},
-			{
-				"Name": "metalbar_run9.wav",
-				"Size": 99620.0
-			},
-			{
-				"Name": "metalbar_walk1.wav",
-				"Size": 64784.0
-			},
-			{
-				"Name": "metalbar_walk2.wav",
-				"Size": 71192.0
-			},
-			{
-				"Name": "metalbar_walk3.wav",
-				"Size": 74228.0
-			},
-			{
-				"Name": "metalbar_walk4.wav",
-				"Size": 59144.0
-			},
-			{
-				"Name": "metalbar_walk5.wav",
-				"Size": 57904.0
-			},
-			{
-				"Name": "metalbar_walk6.wav",
-				"Size": 71460.0
-			},
-			{
-				"Name": "metalbar_walk7.wav",
-				"Size": 72504.0
-			},
-			{
-				"Name": "metalbar_walk8.wav",
-				"Size": 52008.0
-			},
-			{
-				"Name": "metalbar_walk9.wav",
-				"Size": 58368.0
-			},
-			{
-				"Name": "metalbar_wander1.wav",
-				"Size": 32896.0
-			},
-			{
-				"Name": "metalbar_wander2.wav",
-				"Size": 30744.0
-			},
-			{
-				"Name": "metalbar_wander3.wav",
-				"Size": 22332.0
-			},
-			{
-				"Name": "metalbox_run1.wav",
-				"Size": 104296.0
-			},
-			{
-				"Name": "metalbox_run2.wav",
-				"Size": 129220.0
-			},
-			{
-				"Name": "metalbox_run3.wav",
-				"Size": 99448.0
-			},
-			{
-				"Name": "metalbox_run4.wav",
-				"Size": 87776.0
-			},
-			{
-				"Name": "metalbox_run5.wav",
-				"Size": 101760.0
-			},
-			{
-				"Name": "metalbox_walk1.wav",
-				"Size": 147412.0
-			},
-			{
-				"Name": "metalbox_walk2.wav",
-				"Size": 194208.0
-			},
-			{
-				"Name": "metalbox_walk3.wav",
-				"Size": 127980.0
-			},
-			{
-				"Name": "metalbox_walk4.wav",
-				"Size": 125896.0
-			},
-			{
-				"Name": "metalbox_wander1.wav",
-				"Size": 52940.0
-			},
-			{
-				"Name": "metalbox_wander2.wav",
-				"Size": 57464.0
-			},
-			{
-				"Name": "metalbox_wander3.wav",
-				"Size": 58544.0
-			},
-			{
-				"Name": "metalbox_wander4.wav",
-				"Size": 76656.0
-			},
-			{
-				"Name": "mud_run1.wav",
-				"Size": 68908.0
-			},
-			{
-				"Name": "mud_run2.wav",
-				"Size": 84392.0
-			},
-			{
-				"Name": "mud_run3.wav",
-				"Size": 96824.0
-			},
-			{
-				"Name": "mud_run4.wav",
-				"Size": 89908.0
-			},
-			{
-				"Name": "mud_walk1.wav",
-				"Size": 74744.0
-			},
-			{
-				"Name": "mud_walk2.wav",
-				"Size": 92468.0
-			},
-			{
-				"Name": "mud_walk3.wav",
-				"Size": 97648.0
-			},
-			{
-				"Name": "mud_walk4.wav",
-				"Size": 125852.0
-			},
-			{
-				"Name": "mud_wander1.wav",
-				"Size": 70312.0
-			},
-			{
-				"Name": "mud_wander2.wav",
-				"Size": 60800.0
-			},
-			{
-				"Name": "mud_wander3.wav",
-				"Size": 103028.0
-			},
-			{
-				"Name": "mud_wander4.wav",
-				"Size": 130632.0
-			},
-			{
-				"Name": "sand_run1.wav",
-				"Size": 48656.0
-			},
-			{
-				"Name": "sand_run2.wav",
-				"Size": 80920.0
-			},
-			{
-				"Name": "sand_run3.wav",
-				"Size": 31324.0
-			},
-			{
-				"Name": "sand_run4.wav",
-				"Size": 45908.0
-			},
-			{
-				"Name": "sand_walk1.wav",
-				"Size": 59452.0
-			},
-			{
-				"Name": "sand_walk2.wav",
-				"Size": 78772.0
-			},
-			{
-				"Name": "sand_walk3.wav",
-				"Size": 48240.0
-			},
-			{
-				"Name": "sand_walk4.wav",
-				"Size": 60996.0
-			},
-			{
-				"Name": "sand_wander1.wav",
-				"Size": 67812.0
-			},
-			{
-				"Name": "sand_wander2.wav",
-				"Size": 95452.0
-			},
-			{
-				"Name": "sand_wander3.wav",
-				"Size": 95608.0
-			},
-			{
-				"Name": "sand_wander4.wav",
-				"Size": 76912.0
-			},
-			{
-				"Name": "sand_wander5.wav",
-				"Size": 120868.0
-			},
-			{
-				"Name": "sand_wander6.wav",
-				"Size": 73444.0
-			},
-			{
-				"Name": "snow_run1.wav",
-				"Size": 84780.0
-			},
-			{
-				"Name": "snow_run2.wav",
-				"Size": 53660.0
-			},
-			{
-				"Name": "snow_run3.wav",
-				"Size": 74104.0
-			},
-			{
-				"Name": "snow_run4.wav",
-				"Size": 91492.0
-			},
-			{
-				"Name": "snow_run5.wav",
-				"Size": 99304.0
-			},
-			{
-				"Name": "snow_run6.wav",
-				"Size": 109020.0
-			},
-			{
-				"Name": "snow_walk1.wav",
-				"Size": 93428.0
-			},
-			{
-				"Name": "snow_walk2.wav",
-				"Size": 92456.0
-			},
-			{
-				"Name": "snow_walk3.wav",
-				"Size": 98160.0
-			},
-			{
-				"Name": "snow_walk4.wav",
-				"Size": 102392.0
-			},
-			{
-				"Name": "snow_walk5.wav",
-				"Size": 78072.0
-			},
-			{
-				"Name": "snow_walk6.wav",
-				"Size": 76588.0
-			},
-			{
-				"Name": "snow_wander1.wav",
-				"Size": 48720.0
-			},
-			{
-				"Name": "snow_wander2.wav",
-				"Size": 69904.0
-			},
-			{
-				"Name": "snow_wander3.wav",
-				"Size": 72484.0
-			},
-			{
-				"Name": "snow_wander4.wav",
-				"Size": 113808.0
-			},
-			{
-				"Name": "snow_wander5.wav",
-				"Size": 87700.0
-			},
-			{
-				"Name": "snow_wander6.wav",
-				"Size": 71280.0
-			},
-			{
-				"Name": "squeakywood_run1.wav",
-				"Size": 44228.0
-			},
-			{
-				"Name": "squeakywood_run11.wav",
-				"Size": 43752.0
-			},
-			{
-				"Name": "squeakywood_run2.wav",
-				"Size": 46628.0
-			},
-			{
-				"Name": "squeakywood_run3.wav",
-				"Size": 43540.0
-			},
-			{
-				"Name": "squeakywood_run4.wav",
-				"Size": 45216.0
-			},
-			{
-				"Name": "squeakywood_run5.wav",
-				"Size": 43744.0
-			},
-			{
-				"Name": "squeakywood_run6.wav",
-				"Size": 44008.0
-			},
-			{
-				"Name": "squeakywood_run7.wav",
-				"Size": 42736.0
-			},
-			{
-				"Name": "squeakywood_run8.wav",
-				"Size": 45544.0
-			},
-			{
-				"Name": "squeakywood_run9.wav",
-				"Size": 44080.0
-			},
-			{
-				"Name": "squeakywood_walk1.wav",
-				"Size": 129532.0
-			},
-			{
-				"Name": "squeakywood_walk2.wav",
-				"Size": 173352.0
-			},
-			{
-				"Name": "squeakywood_walk3.wav",
-				"Size": 131096.0
-			},
-			{
-				"Name": "squeakywood_walk4.wav",
-				"Size": 131292.0
-			},
-			{
-				"Name": "squeakywood_wander1.wav",
-				"Size": 41856.0
-			},
-			{
-				"Name": "squeakywood_wander2.wav",
-				"Size": 39640.0
-			},
-			{
-				"Name": "squeakywood_wander3.wav",
-				"Size": 30128.0
-			},
-			{
-				"Name": "squeakywood_wander4.wav",
-				"Size": 42652.0
-			},
-			{
-				"Name": "squeakywood_wander5.wav",
-				"Size": 42652.0
-			},
-			{
-				"Name": "squeakywood_wander6.wav",
-				"Size": 48304.0
-			},
-			{
-				"Name": "squeakywood_wander7.wav",
-				"Size": 48304.0
-			},
-			{
-				"Name": "squeakywood_wander8.wav",
-				"Size": 24304.0
-			},
-			{
-				"Name": "squeakywood_wander9.wav",
-				"Size": 24304.0
-			},
-			{
-				"Name": "water_through1.wav",
-				"Size": 155700.0
-			},
-			{
-				"Name": "water_through2.wav",
-				"Size": 165148.0
-			},
-			{
-				"Name": "water_through3.wav",
-				"Size": 148480.0
-			},
-			{
-				"Name": "water_through4.wav",
-				"Size": 188428.0
-			},
-			{
-				"Name": "water_wander1.wav",
-				"Size": 206920.0
-			},
-			{
-				"Name": "water_wander2.wav",
-				"Size": 206024.0
-			},
-			{
-				"Name": "water_wander3.wav",
-				"Size": 146736.0
-			},
-			{
-				"Name": "water_wander4.wav",
-				"Size": 184316.0
-			},
-			{
-				"Name": "water_wander5.wav",
-				"Size": 239640.0
-			},
-			{
-				"Name": "water_wander6.wav",
-				"Size": 277528.0
-			},
-			{
-				"Name": "water_wander7.wav",
-				"Size": 294960.0
-			},
-			{
-				"Name": "water_wander8.wav",
-				"Size": 274484.0
-			},
-			{
-				"Name": "wood_run1.wav",
-				"Size": 105380.0
-			},
-			{
-				"Name": "wood_run2.wav",
-				"Size": 53484.0
-			},
-			{
-				"Name": "wood_run3.wav",
-				"Size": 132196.0
-			},
-			{
-				"Name": "wood_run4.wav",
-				"Size": 99332.0
-			},
-			{
-				"Name": "wood_run5.wav",
-				"Size": 95080.0
-			},
-			{
-				"Name": "wood_run6.wav",
-				"Size": 67724.0
-			},
-			{
-				"Name": "wood_walk1.wav",
-				"Size": 107760.0
-			},
-			{
-				"Name": "wood_walk2.wav",
-				"Size": 58888.0
-			},
-			{
-				"Name": "wood_walk3.wav",
-				"Size": 135184.0
-			},
-			{
-				"Name": "wood_walk4.wav",
-				"Size": 101716.0
-			}
-		],
+		"footsteps": {
+			"wood": [
+				{
+					"Name": "wood_run1.wav",
+					"Size": 105380.0
+				},
+				{
+					"Name": "wood_run2.wav",
+					"Size": 53484.0
+				},
+				{
+					"Name": "wood_run3.wav",
+					"Size": 132196.0
+				},
+				{
+					"Name": "wood_run4.wav",
+					"Size": 99332.0
+				},
+				{
+					"Name": "wood_run5.wav",
+					"Size": 95080.0
+				},
+				{
+					"Name": "wood_run6.wav",
+					"Size": 67724.0
+				},
+				{
+					"Name": "wood_walk1.wav",
+					"Size": 107760.0
+				},
+				{
+					"Name": "wood_walk2.wav",
+					"Size": 58888.0
+				},
+				{
+					"Name": "wood_walk3.wav",
+					"Size": 135184.0
+				},
+				{
+					"Name": "wood_walk4.wav",
+					"Size": 101716.0
+				}
+			],
+			"snow": [
+				{
+					"Name": "snow_run1.wav",
+					"Size": 84780.0
+				},
+				{
+					"Name": "snow_run2.wav",
+					"Size": 53660.0
+				},
+				{
+					"Name": "snow_run3.wav",
+					"Size": 74104.0
+				},
+				{
+					"Name": "snow_run4.wav",
+					"Size": 91492.0
+				},
+				{
+					"Name": "snow_run5.wav",
+					"Size": 99304.0
+				},
+				{
+					"Name": "snow_run6.wav",
+					"Size": 109020.0
+				},
+				{
+					"Name": "snow_walk1.wav",
+					"Size": 93428.0
+				},
+				{
+					"Name": "snow_walk2.wav",
+					"Size": 92456.0
+				},
+				{
+					"Name": "snow_walk3.wav",
+					"Size": 98160.0
+				},
+				{
+					"Name": "snow_walk4.wav",
+					"Size": 102392.0
+				},
+				{
+					"Name": "snow_walk5.wav",
+					"Size": 78072.0
+				},
+				{
+					"Name": "snow_walk6.wav",
+					"Size": 76588.0
+				},
+				{
+					"Name": "snow_wander1.wav",
+					"Size": 48720.0
+				},
+				{
+					"Name": "snow_wander2.wav",
+					"Size": 69904.0
+				},
+				{
+					"Name": "snow_wander3.wav",
+					"Size": 72484.0
+				},
+				{
+					"Name": "snow_wander4.wav",
+					"Size": 113808.0
+				},
+				{
+					"Name": "snow_wander5.wav",
+					"Size": 87700.0
+				},
+				{
+					"Name": "snow_wander6.wav",
+					"Size": 71280.0
+				}
+			],
+			"glass": [
+				{
+					"Name": "glass_run1.wav",
+					"Size": 71212.0
+				},
+				{
+					"Name": "glass_run2.wav",
+					"Size": 79212.0
+				},
+				{
+					"Name": "glass_run3.wav",
+					"Size": 69292.0
+				},
+				{
+					"Name": "glass_run4.wav",
+					"Size": 85180.0
+				},
+				{
+					"Name": "glass_walk1.wav",
+					"Size": 121744.0
+				},
+				{
+					"Name": "glass_walk2.wav",
+					"Size": 135420.0
+				},
+				{
+					"Name": "glass_walk3.wav",
+					"Size": 118460.0
+				},
+				{
+					"Name": "glass_walk4.wav",
+					"Size": 145628.0
+				},
+				{
+					"Name": "glass_wander1.wav",
+					"Size": 74188.0
+				},
+				{
+					"Name": "glass_wander2.wav",
+					"Size": 59972.0
+				},
+				{
+					"Name": "glass_wander3.wav",
+					"Size": 67076.0
+				},
+				{
+					"Name": "glass_wander4.wav",
+					"Size": 86644.0
+				}
+			],
+			"metalbox": [
+				{
+					"Name": "metalbox_run1.wav",
+					"Size": 104296.0
+				},
+				{
+					"Name": "metalbox_run2.wav",
+					"Size": 129220.0
+				},
+				{
+					"Name": "metalbox_run3.wav",
+					"Size": 99448.0
+				},
+				{
+					"Name": "metalbox_run4.wav",
+					"Size": 87776.0
+				},
+				{
+					"Name": "metalbox_run5.wav",
+					"Size": 101760.0
+				},
+				{
+					"Name": "metalbox_walk1.wav",
+					"Size": 147412.0
+				},
+				{
+					"Name": "metalbox_walk2.wav",
+					"Size": 194208.0
+				},
+				{
+					"Name": "metalbox_walk3.wav",
+					"Size": 127980.0
+				},
+				{
+					"Name": "metalbox_walk4.wav",
+					"Size": 125896.0
+				},
+				{
+					"Name": "metalbox_wander1.wav",
+					"Size": 52940.0
+				},
+				{
+					"Name": "metalbox_wander2.wav",
+					"Size": 57464.0
+				},
+				{
+					"Name": "metalbox_wander3.wav",
+					"Size": 58544.0
+				},
+				{
+					"Name": "metalbox_wander4.wav",
+					"Size": 76656.0
+				}
+			],
+			"gravel": [
+				{
+					"Name": "gravel_run1.wav",
+					"Size": 92564.0
+				},
+				{
+					"Name": "gravel_run2.wav",
+					"Size": 62188.0
+				},
+				{
+					"Name": "gravel_run3.wav",
+					"Size": 96204.0
+				},
+				{
+					"Name": "gravel_run4.wav",
+					"Size": 69476.0
+				},
+				{
+					"Name": "gravel_walk1.wav",
+					"Size": 129572.0
+				},
+				{
+					"Name": "gravel_walk2.wav",
+					"Size": 87044.0
+				},
+				{
+					"Name": "gravel_walk3.wav",
+					"Size": 134668.0
+				},
+				{
+					"Name": "gravel_walk4.wav",
+					"Size": 97248.0
+				},
+				{
+					"Name": "gravel_wander1.wav",
+					"Size": 89916.0
+				},
+				{
+					"Name": "gravel_wander2.wav",
+					"Size": 99100.0
+				},
+				{
+					"Name": "gravel_wander3.wav",
+					"Size": 133056.0
+				}
+			],
+			"sand": [
+				{
+					"Name": "sand_run1.wav",
+					"Size": 48656.0
+				},
+				{
+					"Name": "sand_run2.wav",
+					"Size": 80920.0
+				},
+				{
+					"Name": "sand_run3.wav",
+					"Size": 31324.0
+				},
+				{
+					"Name": "sand_run4.wav",
+					"Size": 45908.0
+				},
+				{
+					"Name": "sand_walk1.wav",
+					"Size": 59452.0
+				},
+				{
+					"Name": "sand_walk2.wav",
+					"Size": 78772.0
+				},
+				{
+					"Name": "sand_walk3.wav",
+					"Size": 48240.0
+				},
+				{
+					"Name": "sand_walk4.wav",
+					"Size": 60996.0
+				},
+				{
+					"Name": "sand_wander1.wav",
+					"Size": 67812.0
+				},
+				{
+					"Name": "sand_wander2.wav",
+					"Size": 95452.0
+				},
+				{
+					"Name": "sand_wander3.wav",
+					"Size": 95608.0
+				},
+				{
+					"Name": "sand_wander4.wav",
+					"Size": 76912.0
+				},
+				{
+					"Name": "sand_wander5.wav",
+					"Size": 120868.0
+				},
+				{
+					"Name": "sand_wander6.wav",
+					"Size": 73444.0
+				}
+			],
+			"metalbar": [
+				{
+					"Name": "metalbar_run1.wav",
+					"Size": 88716.0
+				},
+				{
+					"Name": "metalbar_run10.wav",
+					"Size": 95752.0
+				},
+				{
+					"Name": "metalbar_run2.wav",
+					"Size": 69268.0
+				},
+				{
+					"Name": "metalbar_run3.wav",
+					"Size": 96584.0
+				},
+				{
+					"Name": "metalbar_run4.wav",
+					"Size": 98160.0
+				},
+				{
+					"Name": "metalbar_run5.wav",
+					"Size": 100124.0
+				},
+				{
+					"Name": "metalbar_run6.wav",
+					"Size": 99232.0
+				},
+				{
+					"Name": "metalbar_run7.wav",
+					"Size": 103840.0
+				},
+				{
+					"Name": "metalbar_run8.wav",
+					"Size": 105708.0
+				},
+				{
+					"Name": "metalbar_run9.wav",
+					"Size": 99620.0
+				},
+				{
+					"Name": "metalbar_walk1.wav",
+					"Size": 64784.0
+				},
+				{
+					"Name": "metalbar_walk10.wav",
+					"Size": 80736.0
+				},
+				{
+					"Name": "metalbar_walk2.wav",
+					"Size": 71192.0
+				},
+				{
+					"Name": "metalbar_walk3.wav",
+					"Size": 74228.0
+				},
+				{
+					"Name": "metalbar_walk4.wav",
+					"Size": 59144.0
+				},
+				{
+					"Name": "metalbar_walk5.wav",
+					"Size": 57904.0
+				},
+				{
+					"Name": "metalbar_walk6.wav",
+					"Size": 71460.0
+				},
+				{
+					"Name": "metalbar_walk7.wav",
+					"Size": 72504.0
+				},
+				{
+					"Name": "metalbar_walk8.wav",
+					"Size": 52008.0
+				},
+				{
+					"Name": "metalbar_walk9.wav",
+					"Size": 58368.0
+				},
+				{
+					"Name": "metalbar_wander1.wav",
+					"Size": 32896.0
+				},
+				{
+					"Name": "metalbar_wander2.wav",
+					"Size": 30744.0
+				},
+				{
+					"Name": "metalbar_wander3.wav",
+					"Size": 22332.0
+				}
+			],
+			"marble": [
+				{
+					"Name": "marble_run1.wav",
+					"Size": 47240.0
+				},
+				{
+					"Name": "marble_run10.wav",
+					"Size": 47684.0
+				},
+				{
+					"Name": "marble_run11.wav",
+					"Size": 45292.0
+				},
+				{
+					"Name": "marble_run2.wav",
+					"Size": 45060.0
+				},
+				{
+					"Name": "marble_run3.wav",
+					"Size": 43900.0
+				},
+				{
+					"Name": "marble_run4.wav",
+					"Size": 43956.0
+				},
+				{
+					"Name": "marble_run5.wav",
+					"Size": 45992.0
+				},
+				{
+					"Name": "marble_run6.wav",
+					"Size": 45492.0
+				},
+				{
+					"Name": "marble_run7.wav",
+					"Size": 46036.0
+				},
+				{
+					"Name": "marble_run8.wav",
+					"Size": 43964.0
+				},
+				{
+					"Name": "marble_run9.wav",
+					"Size": 44032.0
+				},
+				{
+					"Name": "marble_walk1.wav",
+					"Size": 60568.0
+				},
+				{
+					"Name": "marble_walk2.wav",
+					"Size": 84952.0
+				},
+				{
+					"Name": "marble_walk3.wav",
+					"Size": 79428.0
+				},
+				{
+					"Name": "marble_walk4.wav",
+					"Size": 91844.0
+				},
+				{
+					"Name": "marble_wander1.wav",
+					"Size": 34220.0
+				},
+				{
+					"Name": "marble_wander2.wav",
+					"Size": 22616.0
+				},
+				{
+					"Name": "marble_wander3.wav",
+					"Size": 43992.0
+				},
+				{
+					"Name": "marble_wander4.wav",
+					"Size": 26224.0
+				},
+				{
+					"Name": "marble_wander5.wav",
+					"Size": 48.0
+				},
+				{
+					"Name": "marble_wander6.wav",
+					"Size": 48.0
+				}
+			],
+			"mud": [
+				{
+					"Name": "mud_run1.wav",
+					"Size": 68908.0
+				},
+				{
+					"Name": "mud_run2.wav",
+					"Size": 84392.0
+				},
+				{
+					"Name": "mud_run3.wav",
+					"Size": 96824.0
+				},
+				{
+					"Name": "mud_run4.wav",
+					"Size": 89908.0
+				},
+				{
+					"Name": "mud_walk1.wav",
+					"Size": 74744.0
+				},
+				{
+					"Name": "mud_walk2.wav",
+					"Size": 92468.0
+				},
+				{
+					"Name": "mud_walk3.wav",
+					"Size": 97648.0
+				},
+				{
+					"Name": "mud_walk4.wav",
+					"Size": 125852.0
+				},
+				{
+					"Name": "mud_wander1.wav",
+					"Size": 70312.0
+				},
+				{
+					"Name": "mud_wander2.wav",
+					"Size": 60800.0
+				},
+				{
+					"Name": "mud_wander3.wav",
+					"Size": 103028.0
+				},
+				{
+					"Name": "mud_wander4.wav",
+					"Size": 130632.0
+				}
+			],
+			"duct": [
+				{
+					"Name": "duct_run1.wav",
+					"Size": 116592.0
+				},
+				{
+					"Name": "duct_run2.wav",
+					"Size": 108448.0
+				},
+				{
+					"Name": "duct_run3.wav",
+					"Size": 120888.0
+				},
+				{
+					"Name": "duct_run4.wav",
+					"Size": 148772.0
+				},
+				{
+					"Name": "duct_walk1.wav",
+					"Size": 127184.0
+				},
+				{
+					"Name": "duct_walk2.wav",
+					"Size": 133724.0
+				},
+				{
+					"Name": "duct_walk3.wav",
+					"Size": 119636.0
+				},
+				{
+					"Name": "duct_walk4.wav",
+					"Size": 169324.0
+				},
+				{
+					"Name": "duct_wander1.wav",
+					"Size": 109060.0
+				},
+				{
+					"Name": "duct_wander2.wav",
+					"Size": 182796.0
+				},
+				{
+					"Name": "duct_wander3.wav",
+					"Size": 182796.0
+				},
+				{
+					"Name": "duct_wander4.wav",
+					"Size": 197224.0
+				}
+			],
+			"dirt": [
+				{
+					"Name": "dirt_run1.wav",
+					"Size": 92212.0
+				},
+				{
+					"Name": "dirt_run2.wav",
+					"Size": 136504.0
+				},
+				{
+					"Name": "dirt_run3.wav",
+					"Size": 146896.0
+				},
+				{
+					"Name": "dirt_run4.wav",
+					"Size": 92688.0
+				},
+				{
+					"Name": "dirt_walk1.wav",
+					"Size": 87600.0
+				},
+				{
+					"Name": "dirt_walk2.wav",
+					"Size": 151636.0
+				},
+				{
+					"Name": "dirt_walk3.wav",
+					"Size": 151636.0
+				},
+				{
+					"Name": "dirt_walk4.wav",
+					"Size": 108596.0
+				},
+				{
+					"Name": "dirt_wander1.wav",
+					"Size": 81436.0
+				},
+				{
+					"Name": "dirt_wander2.wav",
+					"Size": 55972.0
+				},
+				{
+					"Name": "dirt_wander3.wav",
+					"Size": 64348.0
+				},
+				{
+					"Name": "dirt_wander4.wav",
+					"Size": 43168.0
+				},
+				{
+					"Name": "dirt_wander5.wav",
+					"Size": 102516.0
+				}
+			],
+			"grass": [
+				{
+					"Name": "grass_run1.wav",
+					"Size": 111708.0
+				},
+				{
+					"Name": "grass_run2.wav",
+					"Size": 98800.0
+				},
+				{
+					"Name": "grass_run3.wav",
+					"Size": 120732.0
+				},
+				{
+					"Name": "grass_run4.wav",
+					"Size": 102916.0
+				},
+				{
+					"Name": "grass_run5.wav",
+					"Size": 78316.0
+				},
+				{
+					"Name": "grass_run6.wav",
+					"Size": 105600.0
+				},
+				{
+					"Name": "grass_walk1.wav",
+					"Size": 151244.0
+				},
+				{
+					"Name": "grass_walk2.wav",
+					"Size": 151268.0
+				},
+				{
+					"Name": "grass_walk3.wav",
+					"Size": 145428.0
+				},
+				{
+					"Name": "grass_walk4.wav",
+					"Size": 141956.0
+				},
+				{
+					"Name": "grass_wander1.wav",
+					"Size": 173728.0
+				},
+				{
+					"Name": "grass_wander2.wav",
+					"Size": 199616.0
+				},
+				{
+					"Name": "grass_wander3.wav",
+					"Size": 181896.0
+				},
+				{
+					"Name": "grass_wander4.wav",
+					"Size": 169404.0
+				},
+				{
+					"Name": "grass_wander5.wav",
+					"Size": 201812.0
+				},
+				{
+					"Name": "grass_wander6.wav",
+					"Size": 103512.0
+				}
+			],
+			"concrete": [
+				{
+					"Name": "concrete_run1.wav",
+					"Size": 106516.0
+				},
+				{
+					"Name": "concrete_run2.wav",
+					"Size": 119112.0
+				},
+				{
+					"Name": "concrete_run3.wav",
+					"Size": 125264.0
+				},
+				{
+					"Name": "concrete_run4.wav",
+					"Size": 56508.0
+				},
+				{
+					"Name": "concrete_run5.wav",
+					"Size": 76000.0
+				},
+				{
+					"Name": "concrete_run6.wav",
+					"Size": 70884.0
+				},
+				{
+					"Name": "concrete_walk1.wav",
+					"Size": 87952.0
+				},
+				{
+					"Name": "concrete_walk2.wav",
+					"Size": 107688.0
+				},
+				{
+					"Name": "concrete_walk3.wav",
+					"Size": 132900.0
+				},
+				{
+					"Name": "concrete_walk4.wav",
+					"Size": 89668.0
+				},
+				{
+					"Name": "concrete_wander1.wav",
+					"Size": 53748.0
+				},
+				{
+					"Name": "concrete_wander2.wav",
+					"Size": 42976.0
+				},
+				{
+					"Name": "concrete_wander3.wav",
+					"Size": 57124.0
+				},
+				{
+					"Name": "concrete_wander4.wav",
+					"Size": 83836.0
+				},
+				{
+					"Name": "concrete_wander5.wav",
+					"Size": 65532.0
+				}
+			],
+			"water": [
+				{
+					"Name": "water_through1.wav",
+					"Size": 155700.0
+				},
+				{
+					"Name": "water_through2.wav",
+					"Size": 165148.0
+				},
+				{
+					"Name": "water_through3.wav",
+					"Size": 148480.0
+				},
+				{
+					"Name": "water_through4.wav",
+					"Size": 188428.0
+				},
+				{
+					"Name": "water_wander1.wav",
+					"Size": 206920.0
+				},
+				{
+					"Name": "water_wander2.wav",
+					"Size": 206024.0
+				},
+				{
+					"Name": "water_wander3.wav",
+					"Size": 146736.0
+				},
+				{
+					"Name": "water_wander4.wav",
+					"Size": 184316.0
+				},
+				{
+					"Name": "water_wander5.wav",
+					"Size": 239640.0
+				},
+				{
+					"Name": "water_wander6.wav",
+					"Size": 277528.0
+				},
+				{
+					"Name": "water_wander7.wav",
+					"Size": 294960.0
+				},
+				{
+					"Name": "water_wander8.wav",
+					"Size": 274484.0
+				}
+			],
+			"squeakywood": [
+				{
+					"Name": "squeakywood_run1.wav",
+					"Size": 44228.0
+				},
+				{
+					"Name": "squeakywood_run10.wav",
+					"Size": 46064.0
+				},
+				{
+					"Name": "squeakywood_run11.wav",
+					"Size": 43752.0
+				},
+				{
+					"Name": "squeakywood_run2.wav",
+					"Size": 46628.0
+				},
+				{
+					"Name": "squeakywood_run3.wav",
+					"Size": 43540.0
+				},
+				{
+					"Name": "squeakywood_run4.wav",
+					"Size": 45216.0
+				},
+				{
+					"Name": "squeakywood_run5.wav",
+					"Size": 43744.0
+				},
+				{
+					"Name": "squeakywood_run6.wav",
+					"Size": 44008.0
+				},
+				{
+					"Name": "squeakywood_run7.wav",
+					"Size": 42736.0
+				},
+				{
+					"Name": "squeakywood_run8.wav",
+					"Size": 45544.0
+				},
+				{
+					"Name": "squeakywood_run9.wav",
+					"Size": 44080.0
+				},
+				{
+					"Name": "squeakywood_walk1.wav",
+					"Size": 129532.0
+				},
+				{
+					"Name": "squeakywood_walk2.wav",
+					"Size": 173352.0
+				},
+				{
+					"Name": "squeakywood_walk3.wav",
+					"Size": 131096.0
+				},
+				{
+					"Name": "squeakywood_walk4.wav",
+					"Size": 131292.0
+				},
+				{
+					"Name": "squeakywood_wander1.wav",
+					"Size": 41856.0
+				},
+				{
+					"Name": "squeakywood_wander10.wav",
+					"Size": 48.0
+				},
+				{
+					"Name": "squeakywood_wander11.wav",
+					"Size": 48.0
+				},
+				{
+					"Name": "squeakywood_wander2.wav",
+					"Size": 39640.0
+				},
+				{
+					"Name": "squeakywood_wander3.wav",
+					"Size": 30128.0
+				},
+				{
+					"Name": "squeakywood_wander4.wav",
+					"Size": 42652.0
+				},
+				{
+					"Name": "squeakywood_wander5.wav",
+					"Size": 42652.0
+				},
+				{
+					"Name": "squeakywood_wander6.wav",
+					"Size": 48304.0
+				},
+				{
+					"Name": "squeakywood_wander7.wav",
+					"Size": 48304.0
+				},
+				{
+					"Name": "squeakywood_wander8.wav",
+					"Size": 24304.0
+				},
+				{
+					"Name": "squeakywood_wander9.wav",
+					"Size": 24304.0
+				}
+			]
+		},
 		"generic": [
 			{
 				"Name": "flashlight.wav",
