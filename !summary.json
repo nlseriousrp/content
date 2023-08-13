@@ -1451,6 +1451,10 @@
 				"Name": "trousers96.png",
 				"Size": 2223.0
 			},
+			"11": {
+				"Name": "tick.png",
+				"Size": 225.0
+			},
 			"items": [
 				{
 					"Name": "assault_rifle.png",
