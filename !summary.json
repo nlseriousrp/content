@@ -1,208 +1,4 @@
 {
-	"1": {
-		"Name": "12gauge.vtf",
-		"Size": 174856.0
-	},
-	"2": {
-		"Name": "12gauge_normal.vtf",
-		"Size": 262224.0
-	},
-	"3": {
-		"Name": "1911.vtf",
-		"Size": 1398336.0
-	},
-	"4": {
-		"Name": "1911_normal.vtf",
-		"Size": 1398336.0
-	},
-	"5": {
-		"Name": "accyuv.vtf",
-		"Size": 349760.0
-	},
-	"6": {
-		"Name": "default_normal.vtf",
-		"Size": 144.0
-	},
-	"7": {
-		"Name": "deserteagle_1.vtf",
-		"Size": 1398336.0
-	},
-	"8": {
-		"Name": "deserteagle_2.vtf",
-		"Size": 349760.0
-	},
-	"9": {
-		"Name": "diffuse.vtf",
-		"Size": 1398336.0
-	},
-	"10": {
-		"Name": "dustcovers.vtf",
-		"Size": 1048656.0
-	},
-	"11": {
-		"Name": "dv2.vtf",
-		"Size": 349760.0
-	},
-	"12": {
-		"Name": "fas_dust_a.vtf",
-		"Size": 1398336.0
-	},
-	"13": {
-		"Name": "fas_dust_b.vtf",
-		"Size": 1398336.0
-	},
-	"14": {
-		"Name": "fas_dust_thick.vtf",
-		"Size": 1398336.0
-	},
-	"15": {
-		"Name": "fas_flamering.vtf",
-		"Size": 175156.0
-	},
-	"16": {
-		"Name": "fas_muzzle_break_test.vtf",
-		"Size": 174944.0
-	},
-	"17": {
-		"Name": "flashlight_diffuse.vtf",
-		"Size": 349704.0
-	},
-	"18": {
-		"Name": "flashlight_diffuse_normal.vtf",
-		"Size": 2097313.0
-	},
-	"19": {
-		"Name": "furniture.vtf",
-		"Size": 1048656.0
-	},
-	"20": {
-		"Name": "gerber_gator.vtf",
-		"Size": 349696.0
-	},
-	"21": {
-		"Name": "glock.vtf",
-		"Size": 1048656.0
-	},
-	"22": {
-		"Name": "harris_bipod.vtf",
-		"Size": 262224.0
-	},
-	"23": {
-		"Name": "hl2_muzzleflash.vtf",
-		"Size": 174944.0
-	},
-	"24": {
-		"Name": "invisible.vtf",
-		"Size": 87616.0
-	},
-	"25": {
-		"Name": "lens_envsolid.vtf",
-		"Size": 43784.0
-	},
-	"26": {
-		"Name": "lens_exponent.vtf",
-		"Size": 43784.0
-	},
-	"27": {
-		"Name": "lens_special.vtf",
-		"Size": 65616.0
-	},
-	"28": {
-		"Name": "leupold_mk4.vtf",
-		"Size": 524368.0
-	},
-	"29": {
-		"Name": "leupold_mk4_normal.vtf",
-		"Size": 1048656.0
-	},
-	"30": {
-		"Name": "m11magazine.vtf",
-		"Size": 1398336.0
-	},
-	"31": {
-		"Name": "m11receiver.vtf",
-		"Size": 1398336.0
-	},
-	"32": {
-		"Name": "m24_body.vtf",
-		"Size": 1048656.0
-	},
-	"33": {
-		"Name": "m24_parts.vtf",
-		"Size": 524368.0
-	},
-	"34": {
-		"Name": "m67.vtf",
-		"Size": 174856.0
-	},
-	"35": {
-		"Name": "m79_diffuse.vtf",
-		"Size": 1398336.0
-	},
-	"36": {
-		"Name": "m79_grenade_diffuse.vtf",
-		"Size": 43912.0
-	},
-	"37": {
-		"Name": "m82.vtf",
-		"Size": 2796384.0
-	},
-	"38": {
-		"Name": "main.vtf",
-		"Size": 1048656.0
-	},
-	"39": {
-		"Name": "map1.vtf",
-		"Size": 1048656.0
-	},
-	"40": {
-		"Name": "map2.vtf",
-		"Size": 1048656.0
-	},
-	"41": {
-		"Name": "ragingbull.vtf",
-		"Size": 524368.0
-	},
-	"42": {
-		"Name": "ragingbullmount.vtf",
-		"Size": 131152.0
-	},
-	"43": {
-		"Name": "ragingbullmount_normal.vtf",
-		"Size": 262224.0
-	},
-	"44": {
-		"Name": "rpk_parts.vtf",
-		"Size": 699232.0
-	},
-	"45": {
-		"Name": "scope_leo.vtf",
-		"Size": 1048784.0
-	},
-	"46": {
-		"Name": "scoperings.vtf",
-		"Size": 524368.0
-	},
-	"47": {
-		"Name": "scoperings_normal.vtf",
-		"Size": 1048656.0
-	},
-	"48": {
-		"Name": "sparkwires.vtf",
-		"Size": 44292.0
-	},
-	"49": {
-		"Name": "uzi_main.vtf",
-		"Size": 1398336.0
-	},
-	"50": {
-		"Name": "v_870.vtf",
-		"Size": 2796384.0
-	},
-	"51": {
-		"Name": "woodstock.vtf",
-		"Size": 1398336.0
-	},
 	"sound": {
 		"footsteps": {
 			"wood": [
@@ -1116,300 +912,756 @@
 				}
 			]
 		},
+		"weapons": {
+			"1": {
+				"Name": "empty_assaultrifles.wav",
+				"Size": 13908.0
+			},
+			"2": {
+				"Name": "empty_shotguns.wav",
+				"Size": 15974.0
+			},
+			"3": {
+				"Name": "empty_submachineguns.wav",
+				"Size": 11840.0
+			},
+			"4": {
+				"Name": "switch1.wav",
+				"Size": 19422.0
+			},
+			"5": {
+				"Name": "switch2.wav",
+				"Size": 19422.0
+			},
+			"6": {
+				"Name": "switch3.wav",
+				"Size": 19422.0
+			},
+			"7": {
+				"Name": "switch4.wav",
+				"Size": 19422.0
+			},
+			"8": {
+				"Name": "switch5.wav",
+				"Size": 19422.0
+			},
+			"9": {
+				"Name": "switch6.wav",
+				"Size": 13910.0
+			},
+			"10": {
+				"Name": "weapon_deploy1.wav",
+				"Size": 54366.0
+			},
+			"11": {
+				"Name": "weapon_deploy2.wav",
+				"Size": 66194.0
+			},
+			"12": {
+				"Name": "weapon_deploy3.wav",
+				"Size": 79424.0
+			},
+			"13": {
+				"Name": "weapon_holster1.wav",
+				"Size": 75014.0
+			},
+			"14": {
+				"Name": "weapon_holster2.wav",
+				"Size": 70604.0
+			},
+			"15": {
+				"Name": "weapon_holster3.wav",
+				"Size": 86940.0
+			},
+			"16": {
+				"Name": "weapon_sightlower.wav",
+				"Size": 75014.0
+			},
+			"handling": [
+				{
+					"Name": "generic_grip_medium1.wav",
+					"Size": 55170.0
+				},
+				{
+					"Name": "generic_grip_medium2.wav",
+					"Size": 55170.0
+				},
+				{
+					"Name": "generic_magpouch1.wav",
+					"Size": 44892.0
+				},
+				{
+					"Name": "generic_magpouch_pistol1.wav",
+					"Size": 36230.0
+				},
+				{
+					"Name": "generic_magpouch_shotgun1.wav",
+					"Size": 36230.0
+				}
+			],
+			"explosive_m67": [
+				{
+					"Name": "m67_explode_1.wav",
+					"Size": 793844.0
+				},
+				{
+					"Name": "m67_explode_2.wav",
+					"Size": 748212.0
+				},
+				{
+					"Name": "m67_explode_3.wav",
+					"Size": 823188.0
+				},
+				{
+					"Name": "m67_explode_4.wav",
+					"Size": 769360.0
+				},
+				{
+					"Name": "m67_explode_5.wav",
+					"Size": 1358896.0
+				},
+				{
+					"Name": "m67_explode_6.wav",
+					"Size": 813272.0
+				},
+				{
+					"Name": "m67_pinpull.wav",
+					"Size": 77184.0
+				},
+				{
+					"Name": "m67_primer.wav",
+					"Size": 154396.0
+				},
+				{
+					"Name": "m67_safety.wav",
+					"Size": 58256.0
+				},
+				{
+					"Name": "m67_spoon1.wav",
+					"Size": 88244.0
+				}
+			],
+			"m4a1": [
+				{
+					"Name": "m4_boltcatch.wav",
+					"Size": 66194.0
+				},
+				{
+					"Name": "m4_fire1.wav",
+					"Size": 374980.0
+				},
+				{
+					"Name": "m4_magin.wav",
+					"Size": 45674.0
+				},
+				{
+					"Name": "m4_magout.wav",
+					"Size": 26510.0
+				},
+				{
+					"Name": "m4_magout_empty.wav",
+					"Size": 28300.0
+				}
+			],
+			"glock20": [
+				{
+					"Name": "glock20_fire1.wav",
+					"Size": 441128.0
+				},
+				{
+					"Name": "glock20_magin.wav",
+					"Size": 54218.0
+				},
+				{
+					"Name": "glock20_magout.wav",
+					"Size": 27688.0
+				},
+				{
+					"Name": "glock20_magout_empty.wav",
+					"Size": 27688.0
+				},
+				{
+					"Name": "glock20_sliderelease.wav",
+					"Size": 78178.0
+				}
+			],
+			"19": {
+				"Name": "weapon_sightraise2.wav",
+				"Size": 61784.0
+			},
+			"18": {
+				"Name": "weapon_sightraise.wav",
+				"Size": 52964.0
+			},
+			"deserteagle": [
+				{
+					"Name": "de_fire1.wav",
+					"Size": 441128.0
+				},
+				{
+					"Name": "de_magin.wav",
+					"Size": 27688.0
+				},
+				{
+					"Name": "de_magin_partial.wav",
+					"Size": 11152.0
+				},
+				{
+					"Name": "de_magout.wav",
+					"Size": 27688.0
+				},
+				{
+					"Name": "de_magout_empty.wav",
+					"Size": 22176.0
+				},
+				{
+					"Name": "de_sliderelease.wav",
+					"Size": 16664.0
+				}
+			],
+			"ragingbull": [
+				{
+					"Name": "ragingbull_close.wav",
+					"Size": 24932.0
+				},
+				{
+					"Name": "ragingbull_extractor.wav",
+					"Size": 20946.0
+				},
+				{
+					"Name": "ragingbull_fire1.wav",
+					"Size": 661628.0
+				},
+				{
+					"Name": "ragingbull_insert1.wav",
+					"Size": 26486.0
+				},
+				{
+					"Name": "ragingbull_insert2.wav",
+					"Size": 14772.0
+				},
+				{
+					"Name": "ragingbull_insert3.wav",
+					"Size": 22266.0
+				},
+				{
+					"Name": "ragingbull_insert4.wav",
+					"Size": 25022.0
+				},
+				{
+					"Name": "ragingbull_insert5.wav",
+					"Size": 24850.0
+				},
+				{
+					"Name": "ragingbull_jiggle1.wav",
+					"Size": 48554.0
+				},
+				{
+					"Name": "ragingbull_jiggle2.wav",
+					"Size": 52964.0
+				},
+				{
+					"Name": "ragingbull_jiggle3.wav",
+					"Size": 46510.0
+				},
+				{
+					"Name": "ragingbull_jiggle4.wav",
+					"Size": 36562.0
+				},
+				{
+					"Name": "ragingbull_open.wav",
+					"Size": 35398.0
+				},
+				{
+					"Name": "ragingbull_remove1.wav",
+					"Size": 53994.0
+				},
+				{
+					"Name": "ragingbull_remove2.wav",
+					"Size": 42380.0
+				},
+				{
+					"Name": "ragingbull_remove3.wav",
+					"Size": 49170.0
+				},
+				{
+					"Name": "ragingbull_remove4.wav",
+					"Size": 42380.0
+				},
+				{
+					"Name": "ragingbull_remove5.wav",
+					"Size": 32088.0
+				}
+			],
+			"17": {
+				"Name": "weapon_sightlower2.wav",
+				"Size": 88244.0
+			},
+			"rem870": [
+				{
+					"Name": "rem870_fire1.wav",
+					"Size": 617526.0
+				},
+				{
+					"Name": "rem870_insert1.wav",
+					"Size": 47038.0
+				},
+				{
+					"Name": "rem870_insert2.wav",
+					"Size": 52964.0
+				},
+				{
+					"Name": "rem870_insert3.wav",
+					"Size": 40082.0
+				},
+				{
+					"Name": "rem870_pump_back.wav",
+					"Size": 11152.0
+				},
+				{
+					"Name": "rem870_pump_back1.wav",
+					"Size": 19420.0
+				},
+				{
+					"Name": "rem870_pump_back2.wav",
+					"Size": 19420.0
+				},
+				{
+					"Name": "rem870_pump_forward.wav",
+					"Size": 13908.0
+				},
+				{
+					"Name": "rem870_pump_forward1.wav",
+					"Size": 19420.0
+				},
+				{
+					"Name": "rem870_pump_forward2.wav",
+					"Size": 19420.0
+				}
+			],
+			"ak47": [
+				{
+					"Name": "ak47_cock.wav",
+					"Size": 61832.0
+				},
+				{
+					"Name": "ak47_fire1.wav",
+					"Size": 417700.0
+				},
+				{
+					"Name": "ak47_magin.wav",
+					"Size": 30080.0
+				},
+				{
+					"Name": "ak47_magout.wav",
+					"Size": 33906.0
+				},
+				{
+					"Name": "ak47_magout_empty.wav",
+					"Size": 27688.0
+				}
+			],
+			"ots33": [
+				{
+					"Name": "ots33_fire1.wav",
+					"Size": 353060.0
+				},
+				{
+					"Name": "ots33_magin.wav",
+					"Size": 33202.0
+				},
+				{
+					"Name": "ots33_magin_partial.wav",
+					"Size": 26310.0
+				},
+				{
+					"Name": "ots33_magout.wav",
+					"Size": 24932.0
+				},
+				{
+					"Name": "ots33_magout_empty.wav",
+					"Size": 24932.0
+				},
+				{
+					"Name": "ots33_slideback.wav",
+					"Size": 78000.0
+				},
+				{
+					"Name": "ots33_sliderelease.wav",
+					"Size": 27688.0
+				}
+			],
+			"1911": [
+				{
+					"Name": "1911_fire1.wav",
+					"Size": 397030.0
+				},
+				{
+					"Name": "1911_magin.wav",
+					"Size": 33202.0
+				},
+				{
+					"Name": "1911_magin_partial.wav",
+					"Size": 22176.0
+				},
+				{
+					"Name": "1911_magout.wav",
+					"Size": 22176.0
+				},
+				{
+					"Name": "1911_magout_empty.wav",
+					"Size": 22176.0
+				},
+				{
+					"Name": "1911_sliderelease.wav",
+					"Size": 16664.0
+				}
+			],
+			"m3s90": [
+				{
+					"Name": "m3s90_boltcatch.wav",
+					"Size": 36862.0
+				},
+				{
+					"Name": "m3s90_fire1.wav",
+					"Size": 441128.0
+				},
+				{
+					"Name": "m3s90_getammo1.wav",
+					"Size": 33202.0
+				},
+				{
+					"Name": "m3s90_getammo2.wav",
+					"Size": 33202.0
+				},
+				{
+					"Name": "m3s90_getammo3.wav",
+					"Size": 33202.0
+				},
+				{
+					"Name": "m3s90_load1.wav",
+					"Size": 54132.0
+				},
+				{
+					"Name": "m3s90_load2.wav",
+					"Size": 54132.0
+				},
+				{
+					"Name": "m3s90_load3.wav",
+					"Size": 54132.0
+				},
+				{
+					"Name": "m3s90_load4.wav",
+					"Size": 54132.0
+				},
+				{
+					"Name": "m3s90_load5.wav",
+					"Size": 54132.0
+				},
+				{
+					"Name": "m3s90_load6.wav",
+					"Size": 54132.0
+				},
+				{
+					"Name": "m3s90_load7.wav",
+					"Size": 54132.0
+				},
+				{
+					"Name": "m3s90_load8.wav",
+					"Size": 54132.0
+				},
+				{
+					"Name": "m3s90_load_ejectorport.wav",
+					"Size": 38714.0
+				},
+				{
+					"Name": "m3s90_restock.wav",
+					"Size": 16772.0
+				}
+			],
+			"p226": [
+				{
+					"Name": "p226_fire1.wav",
+					"Size": 374980.0
+				},
+				{
+					"Name": "p226_magin.wav",
+					"Size": 19422.0
+				},
+				{
+					"Name": "p226_magin_partial.wav",
+					"Size": 16666.0
+				},
+				{
+					"Name": "p226_magout.wav",
+					"Size": 22178.0
+				},
+				{
+					"Name": "p226_magout_empty.wav",
+					"Size": 22178.0
+				},
+				{
+					"Name": "p226_slideback.wav",
+					"Size": 11154.0
+				},
+				{
+					"Name": "p226_slideforward.wav",
+					"Size": 8396.0
+				},
+				{
+					"Name": "p226_slidepull.wav",
+					"Size": 46984.0
+				},
+				{
+					"Name": "p226_sliderelease.wav",
+					"Size": 16666.0
+				},
+				{
+					"Name": "p226_slidestop.wav",
+					"Size": 8396.0
+				}
+			]
+		},
 		"generic": [
 			{
 				"Name": "flashlight.wav",
 				"Size": 46158.0
 			}
 		],
-		"weapons": [
+		"ui": [
 			{
-				"Name": "ak47_cock.wav",
-				"Size": 61832.0
+				"Name": "move.wav",
+				"Size": 103034.0
 			},
 			{
-				"Name": "ak47_fire1.wav",
-				"Size": 417700.0
-			},
-			{
-				"Name": "ak47_magin.wav",
-				"Size": 30080.0
-			},
-			{
-				"Name": "ak47_magout.wav",
-				"Size": 33906.0
-			},
-			{
-				"Name": "ak47_magout_empty.wav",
-				"Size": 27688.0
-			},
-			{
-				"Name": "de_fire1.wav",
-				"Size": 441128.0
-			},
-			{
-				"Name": "de_magin.wav",
-				"Size": 27688.0
-			},
-			{
-				"Name": "de_magin_partial.wav",
-				"Size": 11152.0
-			},
-			{
-				"Name": "de_magout.wav",
-				"Size": 27688.0
-			},
-			{
-				"Name": "de_magout_empty.wav",
-				"Size": 22176.0
-			},
-			{
-				"Name": "de_sliderelease.wav",
-				"Size": 16664.0
-			},
-			{
-				"Name": "empty_assaultrifles.wav",
-				"Size": 13908.0
-			},
-			{
-				"Name": "empty_battlerifles.wav",
-				"Size": 11152.0
-			},
-			{
-				"Name": "empty_machineguns.wav",
-				"Size": 11840.0
-			},
-			{
-				"Name": "empty_shotguns.wav",
-				"Size": 15974.0
-			},
-			{
-				"Name": "empty_sniperrifles.wav",
-				"Size": 22176.0
-			},
-			{
-				"Name": "empty_submachineguns.wav",
-				"Size": 11840.0
-			},
-			{
-				"Name": "generic_magpouch1.wav",
-				"Size": 44892.0
-			},
-			{
-				"Name": "generic_magpouch_mg1.wav",
-				"Size": 44892.0
-			},
-			{
-				"Name": "generic_magpouch_pistol1.wav",
-				"Size": 36230.0
-			},
-			{
-				"Name": "generic_magpouch_shotgun1.wav",
-				"Size": 36230.0
-			},
-			{
-				"Name": "generic_magpouch_smg1.wav",
-				"Size": 36230.0
-			},
-			{
-				"Name": "glock20_fire1.wav",
-				"Size": 441128.0
-			},
-			{
-				"Name": "glock20_magin.wav",
-				"Size": 54218.0
-			},
-			{
-				"Name": "glock20_magout.wav",
-				"Size": 27688.0
-			},
-			{
-				"Name": "glock20_magout_empty.wav",
-				"Size": 27688.0
-			},
-			{
-				"Name": "glock20_sliderelease.wav",
-				"Size": 78178.0
-			},
-			{
-				"Name": "knife_hit1.wav",
-				"Size": 42578.0
-			},
-			{
-				"Name": "knife_hit2.wav",
-				"Size": 48490.0
-			},
-			{
-				"Name": "knife_hit3.wav",
-				"Size": 54510.0
-			},
-			{
-				"Name": "knife_stab.wav",
-				"Size": 29418.0
-			},
-			{
-				"Name": "m3s90_fire1.wav",
-				"Size": 617526.0
-			},
-			{
-				"Name": "m3s90_getammo.wav",
-				"Size": 33202.0
-			},
-			{
-				"Name": "m3s90_insert.wav",
-				"Size": 40082.0
-			},
-			{
-				"Name": "m4_boltcatch.wav",
-				"Size": 66194.0
-			},
-			{
-				"Name": "m4_fire1.wav",
-				"Size": 374980.0
-			},
-			{
-				"Name": "m4_magin.wav",
-				"Size": 45674.0
-			},
-			{
-				"Name": "m4_magout.wav",
-				"Size": 26510.0
-			},
-			{
-				"Name": "m4_magout_empty.wav",
-				"Size": 28300.0
-			},
-			{
-				"Name": "p226.vtf",
-				"Size": 1398336.0
-			},
-			{
-				"Name": "p226_fire1.wav",
-				"Size": 397150.0
-			},
-			{
-				"Name": "p226_magin.wav",
-				"Size": 19422.0
-			},
-			{
-				"Name": "p226_magin_partial.wav",
-				"Size": 16666.0
-			},
-			{
-				"Name": "p226_magout.wav",
-				"Size": 22178.0
-			},
-			{
-				"Name": "p226_slideback.wav",
-				"Size": 11154.0
-			},
-			{
-				"Name": "p226_slideforward.wav",
-				"Size": 8396.0
-			},
-			{
-				"Name": "p226_slidestop.wav",
-				"Size": 8396.0
-			},
-			{
-				"Name": "ragingbull_close.wav",
-				"Size": 24932.0
-			},
-			{
-				"Name": "ragingbull_extractor.wav",
-				"Size": 20946.0
-			},
-			{
-				"Name": "ragingbull_fire1.wav",
-				"Size": 661628.0
-			},
-			{
-				"Name": "ragingbull_insert.wav",
-				"Size": 24850.0
-			},
-			{
-				"Name": "ragingbull_jiggle.wav",
-				"Size": 52964.0
-			},
-			{
-				"Name": "ragingbull_normal.vtf",
-				"Size": 1048656.0
-			},
-			{
-				"Name": "ragingbull_open.wav",
-				"Size": 35398.0
-			},
-			{
-				"Name": "ragingbull_remove.wav",
-				"Size": 42380.0
-			},
-			{
-				"Name": "switch1.wav",
-				"Size": 19422.0
-			},
-			{
-				"Name": "switch2.wav",
-				"Size": 19422.0
-			},
-			{
-				"Name": "switch3.wav",
-				"Size": 19422.0
-			},
-			{
-				"Name": "switch4.wav",
-				"Size": 19422.0
-			},
-			{
-				"Name": "switch5.wav",
-				"Size": 19422.0
-			},
-			{
-				"Name": "switch6.wav",
-				"Size": 13910.0
-			},
-			{
-				"Name": "weapon_deploy1.wav",
-				"Size": 54366.0
-			},
-			{
-				"Name": "weapon_deploy2.wav",
-				"Size": 66194.0
-			},
-			{
-				"Name": "weapon_deploy3.wav",
-				"Size": 79424.0
-			},
-			{
-				"Name": "weapon_holster1.wav",
-				"Size": 75014.0
-			},
-			{
-				"Name": "weapon_holster2.wav",
-				"Size": 70604.0
-			},
-			{
-				"Name": "weapon_holster3.wav",
-				"Size": 86940.0
-			},
-			{
-				"Name": "weapon_sightlower.wav",
-				"Size": 75014.0
-			},
-			{
-				"Name": "weapon_sightlower2.wav",
-				"Size": 88244.0
-			},
-			{
-				"Name": "weapon_sightraise.wav",
-				"Size": 52964.0
-			},
-			{
-				"Name": "weapon_sightraise2.wav",
-				"Size": 61784.0
+				"Name": "select.wav",
+				"Size": 29698.0
 			}
 		]
 	},
 	"materials": {
+		"models": {
+			"weapons": {
+				"flashlight_zm": [
+					{
+						"Name": "flashlight_diffuse.vtf",
+						"Size": 349704.0
+					},
+					{
+						"Name": "flashlight_diffuse_normal.vtf",
+						"Size": 2097313.0
+					}
+				],
+				"arc9_fas": {
+					"w_models": [
+						{
+							"Name": "m67.vtf",
+							"Size": 43784.0
+						}
+					],
+					"view": {
+						"shotguns": {
+							"870": [
+								{
+									"Name": "v_870.vtf",
+									"Size": 2796384.0
+								}
+							],
+							"m3s90": [
+								{
+									"Name": "map1.vtf",
+									"Size": 1398336.0
+								},
+								{
+									"Name": "map2.vtf",
+									"Size": 1398336.0
+								}
+							]
+						},
+						"support": {
+							"sr25": [
+								{
+									"Name": "sr25.vtf",
+									"Size": 1398336.0
+								}
+							]
+						},
+						"rifles": {
+							"akm": [
+								{
+									"Name": "dustcovers.vtf",
+									"Size": 1398336.0
+								},
+								{
+									"Name": "furniture.vtf",
+									"Size": 1398336.0
+								},
+								{
+									"Name": "main.vtf",
+									"Size": 1398336.0
+								},
+								{
+									"Name": "rpk_parts.vtf",
+									"Size": 699232.0
+								}
+							],
+							"m4a1": [
+								{
+									"Name": "accyuv.vtf",
+									"Size": 349760.0
+								},
+								{
+									"Name": "diffuse.vtf",
+									"Size": 1398336.0
+								}
+							]
+						},
+						"accessories": [
+							{
+								"Name": "kac_sights.vtf",
+								"Size": 43912.0
+							},
+							{
+								"Name": "kac_sights_n.vtf",
+								"Size": 87616.0
+							},
+							{
+								"Name": "suppressor_gemtech.vtf",
+								"Size": 349688.0
+							},
+							{
+								"Name": "suppressor_gemtech_normal.vtf",
+								"Size": 2796348.0
+							},
+							{
+								"Name": "suppressor_socom.vtf",
+								"Size": 349688.0
+							},
+							{
+								"Name": "suppressor_socom_normal.vtf",
+								"Size": 2796348.0
+							},
+							{
+								"Name": "tritium.vtf",
+								"Size": 168.0
+							},
+							{
+								"Name": "ultimak.vtf",
+								"Size": 174984.0
+							}
+						],
+						"pistols": {
+							"deagle": [
+								{
+									"Name": "deserteagle_1.vtf",
+									"Size": 1398336.0
+								},
+								{
+									"Name": "deserteagle_2.vtf",
+									"Size": 349760.0
+								}
+							],
+							"m1911": [
+								{
+									"Name": "1911.vtf",
+									"Size": 1398336.0
+								},
+								{
+									"Name": "1911_normal.vtf",
+									"Size": 1398336.0
+								}
+							],
+							"glock20": [
+								{
+									"Name": "glock.vtf",
+									"Size": 1398336.0
+								}
+							],
+							"ots33": [
+								{
+									"Name": "ots33_base.vtf",
+									"Size": 1398336.0
+								},
+								{
+									"Name": "ots33_slide.vtf",
+									"Size": 1398336.0
+								}
+							],
+							"ragingbull": [
+								{
+									"Name": "ragingbull.vtf",
+									"Size": 699288.0
+								},
+								{
+									"Name": "ragingbull_normal.vtf",
+									"Size": 5592628.0
+								},
+								{
+									"Name": "ragingbullmount.vtf",
+									"Size": 174856.0
+								},
+								{
+									"Name": "ragingbullmount_normal.vtf",
+									"Size": 1398180.0
+								}
+							],
+							"glock18": [
+								{
+									"Name": "frame.vtf",
+									"Size": 174984.0
+								},
+								{
+									"Name": "frame_n.vtf",
+									"Size": 349760.0
+								},
+								{
+									"Name": "slide.vtf",
+									"Size": 699232.0
+								},
+								{
+									"Name": "slide_n.vtf",
+									"Size": 174944.0
+								}
+							],
+							"p226": [
+								{
+									"Name": "p226.vtf",
+									"Size": 1398336.0
+								}
+							]
+						}
+					},
+					"v_models": [
+						{
+							"Name": "default_normal.vtf",
+							"Size": 144.0
+						},
+						{
+							"Name": "small_normal.vtf",
+							"Size": 1398208.0
+						}
+					],
+					"shells": [
+						{
+							"Name": "12gauge.vtf",
+							"Size": 174856.0
+						},
+						{
+							"Name": "12gauge_normal.vtf",
+							"Size": 349760.0
+						},
+						{
+							"Name": "cartridges.vtf",
+							"Size": 349624.0
+						},
+						{
+							"Name": "cartridges_normal.vtf",
+							"Size": 2796284.0
+						}
+					]
+				}
+			}
+		},
 		"ui": {
 			"1": {
 				"Name": "add.png",
@@ -1448,12 +1700,12 @@
 				"Size": 378.0
 			},
 			"10": {
-				"Name": "trousers96.png",
-				"Size": 2223.0
-			},
-			"11": {
 				"Name": "tick.png",
 				"Size": 225.0
+			},
+			"11": {
+				"Name": "trousers96.png",
+				"Size": 2223.0
 			},
 			"items": [
 				{
@@ -1525,6 +1777,36 @@
 					"Size": 4244.0
 				}
 			]
-		}
+		},
+		"effects": [
+			{
+				"Name": "fas_dust_a.vtf",
+				"Size": 5595556.0
+			},
+			{
+				"Name": "fas_dust_b.vtf",
+				"Size": 5596032.0
+			},
+			{
+				"Name": "fas_dust_thick.vtf",
+				"Size": 5595556.0
+			},
+			{
+				"Name": "fas_flamering.vtf",
+				"Size": 175156.0
+			},
+			{
+				"Name": "fas_muzzle_break_test.vtf",
+				"Size": 699748.0
+			},
+			{
+				"Name": "hl2_muzzleflash.vtf",
+				"Size": 699816.0
+			},
+			{
+				"Name": "sparkwires_b.vtf",
+				"Size": 44292.0
+			}
+		]
 	}
 }
