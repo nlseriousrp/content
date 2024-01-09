@@ -912,6 +912,32 @@
 				}
 			]
 		},
+		"ui": [
+			{
+				"Name": "move.wav",
+				"Size": 103034.0
+			},
+			{
+				"Name": "select.wav",
+				"Size": 29698.0
+			}
+		],
+		"physics": {
+			"body": [
+				{
+					"Name": "body_impact_self_06.wav",
+					"Size": 73844.0
+				},
+				{
+					"Name": "body_impact_self_07.wav",
+					"Size": 76060.0
+				},
+				{
+					"Name": "body_impact_self_08.wav",
+					"Size": 110368.0
+				}
+			]
+		},
 		"weapons": {
 			"1": {
 				"Name": "empty_assaultrifles.wav",
@@ -1322,49 +1348,101 @@
 				"Size": 46158.0
 			}
 		],
-		"ui": [
-			{
-				"Name": "move.wav",
-				"Size": 103034.0
-			},
-			{
-				"Name": "select.wav",
-				"Size": 29698.0
-			}
-		]
+		"player": {
+			"winter": [
+				{
+					"Name": "snowball_equip_01.wav",
+					"Size": 49450.0
+				},
+				{
+					"Name": "snowball_equip_02.wav",
+					"Size": 51862.0
+				},
+				{
+					"Name": "snowball_equip_03.wav",
+					"Size": 95436.0
+				},
+				{
+					"Name": "snowball_hit_01.wav",
+					"Size": 175464.0
+				},
+				{
+					"Name": "snowball_hit_02.wav",
+					"Size": 131052.0
+				},
+				{
+					"Name": "snowball_hit_03.wav",
+					"Size": 131106.0
+				},
+				{
+					"Name": "snowball_hit_04.wav",
+					"Size": 129060.0
+				},
+				{
+					"Name": "snowball_pickup_01.wav",
+					"Size": 99690.0
+				},
+				{
+					"Name": "snowball_pickup_02.wav",
+					"Size": 62112.0
+				},
+				{
+					"Name": "snowball_pickup_03.wav",
+					"Size": 99690.0
+				},
+				{
+					"Name": "snowball_throw_02.wav",
+					"Size": 177820.0
+				},
+				{
+					"Name": "snowball_throw_03.wav",
+					"Size": 172308.0
+				},
+				{
+					"Name": "snowball_throw_04.wav",
+					"Size": 204004.0
+				}
+			]
+		}
 	},
 	"models": {
 		"weapons": {
 			"1": {
-				"Name": "w_flashlight_zm.dx80.vtx",
-				"Size": 2862.0
-			},
-			"2": {
 				"Name": "w_flashlight_zm.dx90.vtx",
 				"Size": 2862.0
 			},
-			"3": {
+			"2": {
 				"Name": "w_flashlight_zm.mdl",
 				"Size": 2460.0
 			},
-			"4": {
+			"3": {
 				"Name": "w_flashlight_zm.phy",
 				"Size": 1031.0
 			},
-			"5": {
-				"Name": "w_flashlight_zm.sw.vtx",
-				"Size": 2854.0
-			},
-			"6": {
+			"4": {
 				"Name": "w_flashlight_zm.vvd",
 				"Size": 9856.0
 			},
+			"winter": [
+				{
+					"Name": "w_eq_snowball_dropped.dx90.vtx",
+					"Size": 5133.0
+				},
+				{
+					"Name": "w_eq_snowball_dropped.mdl",
+					"Size": 2908.0
+				},
+				{
+					"Name": "w_eq_snowball_dropped.phy",
+					"Size": 1520.0
+				},
+				{
+					"Name": "w_eq_snowball_dropped.vvd",
+					"Size": 18496.0
+				}
+			],
 			"arc9_fas": {
 				"shotguns": [
-					{
-						"Name": "m3s90.dx80.vtx",
-						"Size": 215746.0
-					},
 					{
 						"Name": "m3s90.dx90.vtx",
 						"Size": 215746.0
@@ -1374,19 +1452,11 @@
 						"Size": 830124.0
 					},
 					{
-						"Name": "m3s90.sw.vtx",
-						"Size": 215362.0
-					},
-					{
 						"Name": "m3s90.vvd",
 						"Size": 918592.0
 					}
 				],
 				"misc": [
-					{
-						"Name": "dv2.dx80.vtx",
-						"Size": 15723.0
-					},
 					{
 						"Name": "dv2.dx90.vtx",
 						"Size": 15723.0
@@ -1396,19 +1466,11 @@
 						"Size": 58236.0
 					},
 					{
-						"Name": "dv2.sw.vtx",
-						"Size": 15715.0
-					},
-					{
 						"Name": "dv2.vvd",
 						"Size": 60608.0
 					}
 				],
 				"rifles": [
-					{
-						"Name": "ak47.dx80.vtx",
-						"Size": 262810.0
-					},
 					{
 						"Name": "ak47.dx90.vtx",
 						"Size": 262810.0
@@ -1418,16 +1480,8 @@
 						"Size": 166088.0
 					},
 					{
-						"Name": "ak47.sw.vtx",
-						"Size": 262634.0
-					},
-					{
 						"Name": "ak47.vvd",
 						"Size": 1132480.0
-					},
-					{
-						"Name": "m4a1.dx80.vtx",
-						"Size": 205722.0
 					},
 					{
 						"Name": "m4a1.dx90.vtx",
@@ -1438,19 +1492,11 @@
 						"Size": 230624.0
 					},
 					{
-						"Name": "m4a1.sw.vtx",
-						"Size": 205490.0
-					},
-					{
 						"Name": "m4a1.vvd",
 						"Size": 914624.0
 					}
 				],
 				"pistols": [
-					{
-						"Name": "deagle.dx80.vtx",
-						"Size": 47813.0
-					},
 					{
 						"Name": "deagle.dx90.vtx",
 						"Size": 47813.0
@@ -1460,16 +1506,8 @@
 						"Size": 182096.0
 					},
 					{
-						"Name": "deagle.sw.vtx",
-						"Size": 47717.0
-					},
-					{
 						"Name": "deagle.vvd",
 						"Size": 214528.0
-					},
-					{
-						"Name": "glock20.dx80.vtx",
-						"Size": 109024.0
 					},
 					{
 						"Name": "glock20.dx90.vtx",
@@ -1480,16 +1518,8 @@
 						"Size": 151860.0
 					},
 					{
-						"Name": "glock20.sw.vtx",
-						"Size": 108832.0
-					},
-					{
 						"Name": "glock20.vvd",
 						"Size": 484096.0
-					},
-					{
-						"Name": "p226.dx80.vtx",
-						"Size": 141463.0
 					},
 					{
 						"Name": "p226.dx90.vtx",
@@ -1500,16 +1530,8 @@
 						"Size": 167532.0
 					},
 					{
-						"Name": "p226.sw.vtx",
-						"Size": 141303.0
-					},
-					{
 						"Name": "p226.vvd",
 						"Size": 627968.0
-					},
-					{
-						"Name": "ragingbull.dx80.vtx",
-						"Size": 88841.0
 					},
 					{
 						"Name": "ragingbull.dx90.vtx",
@@ -1520,19 +1542,11 @@
 						"Size": 420256.0
 					},
 					{
-						"Name": "ragingbull.sw.vtx",
-						"Size": 88681.0
-					},
-					{
 						"Name": "ragingbull.vvd",
 						"Size": 386176.0
 					}
 				],
 				"smgs": [
-					{
-						"Name": "mp5.dx80.vtx",
-						"Size": 371422.0
-					},
 					{
 						"Name": "mp5.dx90.vtx",
 						"Size": 371422.0
@@ -1540,10 +1554,6 @@
 					{
 						"Name": "mp5.mdl",
 						"Size": 847660.0
-					},
-					{
-						"Name": "mp5.sw.vtx",
-						"Size": 371030.0
 					},
 					{
 						"Name": "mp5.vvd",
@@ -1757,6 +1767,22 @@
 						}
 					]
 				}
+			},
+			"props_holidays": {
+				"snowball": [
+					{
+						"Name": "snowball_color.vmt",
+						"Size": 311.0
+					},
+					{
+						"Name": "snowball_color.vtf",
+						"Size": 699296.0
+					},
+					{
+						"Name": "snowball_normal.vtf",
+						"Size": 1398360.0
+					}
+				]
 			}
 		},
 		"ui": {
