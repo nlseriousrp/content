@@ -1771,10 +1771,6 @@
 			"props_holidays": {
 				"snowball": [
 					{
-						"Name": "snowball_color.vmt",
-						"Size": 311.0
-					},
-					{
 						"Name": "snowball_color.vtf",
 						"Size": 699296.0
 					},
